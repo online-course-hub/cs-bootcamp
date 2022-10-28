@@ -1,5 +1,5 @@
 <p align="center">
-### The Developer Bootcamp (The right way)
+The Developer Bootcamp (The right way)
 </p>
 ---
 
