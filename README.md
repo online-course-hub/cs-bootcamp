@@ -112,3 +112,22 @@
       [ ] Part 11 - CI/CD
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
+
+#### [Haskell MOOC](https://haskell.mooc.fi/)<br>
+
+      [ ] Lecture 01 - … And so It Begins
+      [ ] Lecture 02 - Either You Die a Hero…
+      [ ] Lecture 03 - Catamorphic
+      [ ] Lecture 04 - Real Classy
+      [ ] Lecture 05 - You Need String for a Knot
+      [ ] Lecture 06 - Working Class Hero
+      [ ] Lecture 07 - New Constellations
+      [ ] Lecture 08 - The Aftertaste
+      [ ] Lecture 09 - Recap of Part 1
+      [ ] Lecture 10 - Reductionism
+      [ ] Lecture 11 - RealWorld -> (a,RealWorld)
+      [ ] Lecture 12 - fmap fmap fmap
+      [ ] Lecture 13 - A Monoid in the Category of Problems
+      [ ] Lecture 14 - Let’s Use Some Libraries!
+      [ ] Lecture 15 - You’re Valid Even Without Monads
+      [ ] Lecture 16 - Odds and Ends
