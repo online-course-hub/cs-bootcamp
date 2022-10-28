@@ -1,6 +1,6 @@
 # The Developer Bootcamp (The right way)
 
-> ### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
+#### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
 
 > Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript. Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project. Designed for concentrators and non-concentrators alike, with or without prior programming experience. Two thirds of CS50 students have never taken CS before. Among the overarching goals of this course are to inspire students to explore unfamiliar waters, without fear of failure, create an intensive, shared experience, accessible to all students, and build community among students.
 
@@ -16,7 +16,7 @@
       [ ] Week 09 - Flask
       [ ] Week 10 - Emoji
 
-### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
@@ -57,7 +57,7 @@
       [ ] Lecture 37 - OOP Review + Design    
       [ ] Lecture 38 - Conclusion
 
-### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)[Github](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)[Github](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -100,7 +100,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)[Github](https://github.com/orgs/61c-teach/repositories)<br>
+#### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)[Github](https://github.com/orgs/61c-teach/repositories)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Number Representation    
@@ -137,7 +137,7 @@
       [ ] Lecture 33 - Thread-Level Parallelism I    
       [ ] Lecture 34 - Thread-Level Parallelism II
 
-### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
+#### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
