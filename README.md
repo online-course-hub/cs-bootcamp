@@ -1,8 +1,8 @@
 # The Developer Bootcamp (The right way)
 
-#### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
+#### [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
 
-> [Syllabus](https://cs50.harvard.edu/x/2022/syllabus/)
+[Syllabus](https://cs50.harvard.edu/x/2022/syllabus/)
 
       [ ] Week 00 - Scratch
       [ ] Week 01 - C
@@ -18,8 +18,8 @@
 
 #### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
-> [Syllabus](https://cs61a.org/articles/about/)
->
+[Syllabus](https://cs61a.org/articles/about/)
+
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
       [ ] Lecture 03 - Control
@@ -60,6 +60,8 @@
       [ ] Lecture 38 - Conclusion
 
 #### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)[Github](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+
+[Course Info](https://sp21.datastructur.es/about.html)
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -104,6 +106,8 @@
 
 #### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)[Github](https://github.com/orgs/61c-teach/repositories)<br>
 
+[Policies](https://inst.eecs.berkeley.edu/~cs61c/sp22/policies/)
+
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Number Representation    
       [ ] Lecture 03 - C Introduction - Basics    
@@ -140,6 +144,8 @@
       [ ] Lecture 34 - Thread-Level Parallelism II
 
 #### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
+
+[About Course](https://fullstackopen.com/en/about)
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
