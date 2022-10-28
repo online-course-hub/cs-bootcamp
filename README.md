@@ -1,4 +1,6 @@
+<p align="center">
 ### The Developer Bootcamp (The right way)
+</p>
 ---
 
 #### [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
