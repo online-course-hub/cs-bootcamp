@@ -104,7 +104,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-#### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)[Github](https://github.com/orgs/61c-teach/repositories)<br>
+#### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
 [About](https://inst.eecs.berkeley.edu/~cs61c/sp22/policies/)
 
