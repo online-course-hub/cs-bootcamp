@@ -2,9 +2,8 @@
 The Developer Bootcamp (The right way)
 </p>
 
-<p align="center">
-[Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
-</p>
+
+#### [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
 
       [ ] Week 00 - Scratch
       [ ] Week 01 - C
@@ -19,8 +18,6 @@ The Developer Bootcamp (The right way)
       [ ] Week 10 - Emoji
 
 #### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
-
-[About](https://cs61a.org/articles/about/)
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
@@ -62,8 +59,6 @@ The Developer Bootcamp (The right way)
       [ ] Lecture 38 - Conclusion
 
 #### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
-
-[About](https://sp21.datastructur.es/about.html)
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -108,8 +103,6 @@ The Developer Bootcamp (The right way)
 
 #### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
-[About](https://inst.eecs.berkeley.edu/~cs61c/sp22/policies/)
-
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Number Representation    
       [ ] Lecture 03 - C Introduction - Basics    
@@ -146,8 +139,6 @@ The Developer Bootcamp (The right way)
       [ ] Lecture 34 - Thread-Level Parallelism II
 
 #### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
-
-[About Course](https://fullstackopen.com/en/about)
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
