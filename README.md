@@ -59,7 +59,7 @@
       [ ] Lecture 37 - OOP Review + Design    
       [ ] Lecture 38 - Conclusion
 
-#### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)[Github](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
 [About](https://sp21.datastructur.es/about.html)
 
