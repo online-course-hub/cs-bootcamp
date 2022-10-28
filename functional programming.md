@@ -1,4 +1,4 @@
-#### [Haskell MOOC](https://haskell.mooc.fi/)<br>
+#### [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)<br>
 
       [ ] Lecture 01 - … And so It Begins
       [ ] Lecture 02 - Either You Die a Hero…
@@ -17,7 +17,7 @@
       [ ] Lecture 15 - You’re Valid Even Without Monads
       [ ] Lecture 16 - Odds and Ends
 
-#### [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+#### [Cornell - OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
       [ ] Chapter 1 - Better Programming Through OCaml
       [ ] Chapter 2 - The Basics of OCaml
