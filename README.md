@@ -96,43 +96,6 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-#### [Berkeley CS61C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
-
-      [ ] Lecture 01 - Introduction
-      [ ] Lecture 02 - Number Representation    
-      [ ] Lecture 03 - C Introduction - Basics    
-      [ ] Lecture 04 - C Introduction - Pointers, Array, Strings    
-      [ ] Lecture 05 - C Memory Management    
-      [ ] Lecture 06 - Floating Point    
-      [ ] Lecture 07 - RISC-V - Introduction    
-      [ ] Lecture 08 - RISC-V - Decisions I    
-      [ ] Lecture 09 - RISC-V - Decisions II    
-      [ ] Lecture 10 - RISC-V - Procedures    
-      [ ] Lecture 11 - RISC-V - Instruction Format I    
-      [ ] Lecture 12 - RISC-V - Intruction Format II    
-      [ ] Lecture 13 - Compilation, Assembly, Linking, Loading    
-      [ ] Lecture 14 - Introduction to Synchronous Digital Systems    
-      [ ] Lecture 15 - State, State Machines    
-      [ ] Lecture 16 - Combinational Logic I    
-      [ ] Lecture 17 - Combinational Logic II    
-      [ ] Lecture 18 - Single-Cycle CPU Datapath I    
-      [ ] Lecture 19 - Signle-Cycle CPU Datapath II    
-      [ ] Lecture 20 - Single-Cycle CPU Datapath III    
-      [ ] Lecture 21 - Pipelining I    
-      [ ] Lecture 22 - Pipelining II    
-      [ ] Lecture 23 - Pipelining III    
-      [ ] Lecture 24 - Caches I    
-      [ ] Lecture 25 - Caches II    
-      [ ] Lecture 26 - Caches III    
-      [ ] Lecture 27 - Caches IV    
-      [ ] Lecture 28 - OS & Virtual Memory    
-      [ ] Lecture 29 - Virtual Memory I    
-      [ ] Lecture 30 - Virtual Memory II    
-      [ ] Lecture 31 - I_O    
-      [ ] Lecture 32 - Flynn Taxonomy, SIMD Instructions    
-      [ ] Lecture 33 - Thread-Level Parallelism I    
-      [ ] Lecture 34 - Thread-Level Parallelism II
-
 #### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
