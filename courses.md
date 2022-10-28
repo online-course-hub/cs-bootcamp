@@ -96,7 +96,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-#### [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
+#### [University of Helsinki - Full Stack Open 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
