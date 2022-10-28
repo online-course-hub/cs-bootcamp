@@ -1,6 +1,6 @@
 #### [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)<br>
 
-      [ ] Lecture 01 - … And so It Begins
+      [ ] Lecture 01 - …And so It Begins
       [ ] Lecture 02 - Either You Die a Hero…
       [ ] Lecture 03 - Catamorphic
       [ ] Lecture 04 - Real Classy
