@@ -18,6 +18,8 @@
 
 #### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
+> [Syllabus](https://cs61a.org/articles/about/)
+>
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
       [ ] Lecture 03 - Control
