@@ -1,6 +1,6 @@
 # The Developer Bootcamp (The right way)
 
-1. [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
+- [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
 [About](https://cs50.harvard.edu/x/2022/syllabus/)<br>
 
       [ ] Week 00 - Scratch
