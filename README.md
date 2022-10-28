@@ -4,6 +4,17 @@
 
 ### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
 
+      [ ] Week 00 - Scratch
+      [ ] Week 01 - C
+      [ ] Week 02 - Arrays
+      [ ] Week 03 - Algorithms
+      [ ] Week 04 - Memory
+      [ ] Week 05 - Data Structures
+      [ ] Week 06 - Python
+      [ ] Week 07 - SQL
+      [ ] Week 08 - HTML, CSS, JavaScript
+      [ ] Week 09 - Flask
+      [ ] Week 10 - Emoji
 
 ### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
@@ -46,7 +57,7 @@
       [ ] Lecture 37 - OOP Review + Design    
       [ ] Lecture 38 - Conclusion
 
-### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)<br>
+### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)[Github](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -89,7 +100,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)<br>
+### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)[Github](https://github.com/orgs/61c-teach/repositories)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Number Representation    
