@@ -215,71 +215,38 @@ II Data Structures and Algorithms
 11.3 Search a cyclically sorted array
 11.4 Compute the integer square root
 11.5 Compute the real square root
-151	(1)
 11.6 Search in a 2D sorted array
-152	(2)
 11.7 Find the min and max simultaneously
-154	(1)
 11.8 Find the kth largest element
-155	(2)
 11.9 Find the missing IP address
-157	(1)
 11.10 Find the duplicate and missing elements
-158	(3)
 12 Hash Tables
-161	(23)
 12.1 Test for palindromic permutations
-165	(1)
 12.2 Is an anonymous letter constructible?
-166	(1)
 12.3 Implement an ISBN cache
-167	(1)
 12.4 Compute the LCA, optimizing for close ancestors
-168	(1)
 12.5 Compute the k most frequent queries
-169	(1)
 12.6 Find the nearest repeated entries in an array
-170	(1)
 12.7 Find the smallest subarray covering all values
-171	(3)
 12.8 Find smallest subarray sequentially covering all values
-174	(1)
 12.9 Find the longest subarray with distinct entries
-175	(1)
 12.10 Find the length of a longest contained interval
-176	(2)
 12.11 Find the student with the top three scores
-178	(1)
 12.12 Compute all string decompositions
-179	(1)
 12.13 Test the Collatz conjecture
-180	(1)
 12.14 Implement a hash function for chess
-181	(3)
 13 Sorting
-184	(17)
 13.1 Compute the intersection of two sorted arrays
-186	(1)
 13.2 Merge two sorted arrays
-187	(1)
 13.3 Remove first-name duplicates
-188	(1)
 13.4 Smallest nonconstructible value
-189	(1)
 13.5 Render a calendar
-190	(2)
 13.6 Merging intervals
-192	(1)
 13.7 Compute the union of intervals
-193	(2)
 13.8 Partitioning and sorting an array with many repeated entries
-195	(2)
 13.9 Team photo day-1
-197	(1)
 13.10 Implement a fast sorting algorithm for lists
-198	(1)
 13.11 Compute a salary threshold
-199	(1)
 13.12 SORT5
 14 Binary Search Trees
 14.1 Test if a binary tree satisfies the BST property
