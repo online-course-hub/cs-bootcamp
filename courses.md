@@ -37,7 +37,7 @@
       [ ] Week 03 - DLLists, Arrays, ALists, Resizing, vs. SLists, Inheritance, Implements
       [ ] Week 04 - Extends, Casting, Higher Order Functions, Subtype Polymorphism vs. HoFs, Exceptions, Iterators, Object Methods
       [ ] Week 05 - Command Line Programming, Git, Asymptotics 1
-      [ ] Week 06 - Disjoint Sets, Asymptotics 2,ADTs, Sets, Maps, Binary Search Trees
+      [ ] Week 06 - Disjoint Sets, Asymptotics 2, ADTs, Sets, Maps, Binary Search Trees
       [ ] Week 07 - B-Trees, Red Black Trees,Hashing
       [ ] Week 08 - Heaps and PQs, Tree and Graph Traversals, Graph Traversals and Implementations
       [ ] Week 09 - Shortest Paths, Minimum Spanning Trees, Range Searching and Multi-Dimensional Data
