@@ -1,4 +1,4 @@
-#### [Harvard - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)<br>
+#### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
 
       [ ] Week 00 - Scratch
       [ ] Week 01 - C
@@ -12,48 +12,48 @@
       [ ] Week 09 - Flask
       [ ] Week 10 - Emoji
 
-#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
-      [ ] Lecture 01 - Introduction
-                     - Text
-      [ ] Lecture 02 - Functions
-      [ ] Lecture 03 - Control
-      [ ] Lecture 04 - Higher Order Functions    
-      [ ] Lecture 05 - Environments    
-      [ ] Lecture 06 - Recursion    
-      [ ] Lecture 07 - Tree Recursion    
-      [ ] Lecture 08 - More on Functions    
-      [ ] Lecture 09 - Function Examples    
-      [ ] Lecture 10 - Containers    
-      [ ] Lecture 11 - Data Abstraction    
-      [ ] Lecture 12 - Dictionaries, Matrices, and Trees    
-      [ ] Lecture 13 - Creating Trees, Mutability, List Mutations    
-      [ ] Lecture 14 - List Mutations, Identity vs. Equality, Global Nonlocal    
-      [ ] Lecture 15 - Iterators + Generators    
-      [ ] Lecture 16 - Objects + Classes    
-      [ ] Lecture 17 - Inheritance + Composition    
-      [ ] Lecture 18 - Special Object Methods    
-      [ ] Lecture 19 - Recursive Objects (LinkedList + Tree)    
-      [ ] Lecture 20 - Complexity    
-      [ ] Lecture 21 - Memoization    
-      [ ] Lecture 22 - Generics    
-      [ ] Lecture 23 - Fun with Iterables    
-      [ ] Lecture 24 - Scheme    
-      [ ] Lecture 25 - Scheme Examples    
-      [ ] Lecture 26 - Calculator    
-      [ ] Lecture 27 - Interpreters    
-      [ ] Lecture 28 - Undecidability    
-      [ ] Lecture 29 - Macros    
-      [ ] Lecture 30 - Declarative Programming    
-      [ ] Lecture 31 - Regular Expressions    
-      [ ] Lecture 32 - BNF    
-      [ ] Lecture 33 - Review Regular Expressions + BNF    
-      [ ] Lecture 34 - Review Scheme    
-      [ ] Lecture 35 - Intro to SQL    
-      [ ] Lecture 36 - Review Linked Lists + Trees    
-      [ ] Lecture 37 - OOP Review + Design    
-      [ ] Lecture 38 - Conclusion
-
+      [ ] Week 01 - Welcome
+                  - Functions
+      [ ] Week 02 - Control
+                  - Higher Order Functions
+                  - Environments    
+      [ ] Week 03 - Design 
+                  - Function Examples
+      [ ] Week 04 - Recuresion
+                  - Tree Recursion
+      [ ] Week 05 - Containers
+                  - Sequences
+                  - Data Abstraction
+      [ ] Week 06 - Trees
+                  - Mutability
+                  - Syntax
+      [ ] Week 07 - Iterators
+                  - Generators
+                  - Objects
+      [ ] Week 08 - Inheritence
+                  - Representation
+                  - Recursive Objects
+      [ ] Week 09 - Efficiency
+                  - Decomposition
+                  - Data Examples
+      [ ] Week 10 - Users
+                  - Instructor AMA
+      [ ] Week 11 - Scheme
+                  - Exceptions
+                  - Calculator
+      [ ] Week 12 - Interpreters
+                  - Tail Calls
+                  - Regular Expressions
+      [ ] Week 13 - Backus-Naur Form
+                  - SQL
+                  - Tables
+      [ ] Week 14 - Aggregation
+      [ ] Week 15 - Web Apps (Optional)
+                  - Final Examples
+                  - Conclusion
+      
 #### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
