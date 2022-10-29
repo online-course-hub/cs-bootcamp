@@ -113,6 +113,38 @@
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
 
+#### [MIT - 6.031: Software Construction](http://web.mit.edu/6.031/www/sp22/)
+
+      [ ] Chapter 01 - Static Checking
+      [ ] Chapter 02 - Basic TypeScript
+      [ ] Chapter 03 - Testing
+      [ ] Chapter 04 - Code Review
+      [ ] Chapter 05 - Version Control
+      [ ] Chapter 06 - Specifications
+      [ ] Chapter 07 - Designing Specifications
+      [ ] Chapter 08 - Mutability & Immutability
+      [ ] Chapter 09 - Avoiding Debugging
+      [ ] Chapter 10 - Abstract Data Types
+      [ ] Chapter 11 - Abstraction Functions & Rep Invariants
+      [ ] Chapter 12 - Interfaces, Generics, & Enums
+      [ ] Chapter 13 - Debugging
+      [ ] Chapter 14 - Recursion
+      [ ] Chapter 15 - Equality
+      [ ] Chapter 16 - Map, Filter, Reduce
+      [ ] Chapter 17 - Recursive Data Types
+      [ ] Chapter 18 - Regular Expressions & Grammars
+      [ ] Chapter 19 - Parsers
+      [ ] Chapter 20 - Callbacks & Graphical User Interfaces
+      [ ] Chapter 21 - Concurrency
+      [ ] Chapter 22 - Promises
+      [ ] Chapter 23 - Mutual Exclusion
+      [ ] Chapter 24 - Message Passing
+      [ ] Chapter 25 - Networking
+      [ ] Chapter 26 - Little Languages I
+      [ ] Chapter 27 - Little Languages II
+      [ ] Chapter 28 - Ethical Software Engineering
+      [ ] Chapter 29 - Team Version Control
+
 #### [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
 
       [ ] Lecture 01 - Introduction
