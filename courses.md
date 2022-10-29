@@ -1,4 +1,4 @@
-#### [Harvard - CS50’s Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
+#### [Harvard - CS50: Introduction to Computer Science - Fall 2021](https://cs50.harvard.edu/x/2022/)<br>
 
       [ ] Week 00 - Scratch
       [ ] Week 01 - C
@@ -12,7 +12,7 @@
       [ ] Week 09 - Flask
       [ ] Week 10 - Emoji (WTF?)
 
-#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+#### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
       [ ] Week 01 - Welcome, Functions
       [ ] Week 02 - Control, Higher Order Functions, Environments    
@@ -30,7 +30,7 @@
       [ ] Week 14 - Aggregation
       [ ] Week 15 - Web Apps (Optional), Final Examples, Conclusion
       
-#### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [Berkeley - CS 61 B: Data Structures - Spring 2021](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Week 01 - Introduction, Defining and Using Classes
       [ ] Week 02 - Testing, References, Recursion, and Lists, SLLists, Nested Classes, Sentinel Nodes
@@ -47,7 +47,7 @@
       [ ] Week 14 - Radix Sorts, Sorting and Data Structures Conclusion, Software Engineering IV
       [ ] Week 15 - Compression, Compression, Complexity, and P=NP, Summary, Fun
 
-#### [University of Helsinki - Full Stack Open 2022](https://fullstackopen.com/en/)<br>
+#### [University of Helsinki - Full Stack Open - Spring 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
