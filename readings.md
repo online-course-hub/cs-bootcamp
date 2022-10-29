@@ -1,4 +1,4 @@
-#### [Discrete Mathematics with Applications - 5th Edition]([https://www.cengage.co.uk/books/9780357114087/](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/ref=sr_1_1?crid=37JIVW18TTSOW&keywords=susanna+epp&qid=1667032614&qu=eyJxc2MiOiIyLjkxIiwicXNhIjoiMi42OSIsInFzcCI6IjIuNDIifQ%3D%3D&sprefix=susanna+epp%2Caps%2C188&sr=8-1))
+#### Discrete Mathematics with Applications - 5th Edition
 
     [ ] Chapter 1: Speaking Mathematically
     
