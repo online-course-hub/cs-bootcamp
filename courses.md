@@ -10,7 +10,7 @@
       [ ] Week 07 - SQL
       [ ] Week 08 - HTML, CSS, JavaScript
       [ ] Week 09 - Flask
-      [ ] Week 10 - Emoji
+      [ ] Week 10 - Emoji (WTF?)
 
 #### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
