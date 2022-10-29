@@ -131,175 +131,90 @@ II Data Structures and Algorithms		22	(288)
 5.4 Advancing through an array
 5.5 Delete duplicates from a sorted array
 5.6 Buy and sell a stock once
-46	(1)
 5.7 Buy and sell a stock twice
-47	(1)
 5.8 Computing an alternation
-48	(1)
 5.9 Enumerate all primes to n
-49	(1)
 5.10 Permute the elements of an array
-50	(2)
 5.11 Compute the next permutation
-52	(2)
 5.12 Sample offline data
-54	(1)
 5.13 Sample online data
-55	(1)
 5.14 Compute a random permutation
-56	(1)
 5.15 Compute a random subset
-57	(1)
 5.16 Generate nonuniform random numbers
-58	(2)
 5.17 The Sudoku checker problem
-60	(1)
 5.18 Compute the spiral ordering of a 2D array
-61	(3)
 5.19 Rotate a 2D array
-64	(1)
 5.20 Compute rows in Pascal's Triangle
-65	(2)
 6 Strings
-67	(15)
 6.1 Interconvert strings and integers
-68	(1)
 6.2 Base conversion
-69	(1)
 6.3 Compute the spreadsheet column encoding
-70	(1)
 6.4 Replace and remove
-71	(1)
 6.5 Test palindromicity
-72	(1)
 6.6 Reverse all the words in a sentence
-73	(1)
 6.7 Compute all mnemonics for a phone number
-74	(1)
 6.8 The look-and-say problem
-75	(1)
 6.9 Convert from Roman to decimal
-76	(1)
 6.10 Compute all valid IP addresses
-77	(1)
 6.11 Write a string sinusoidally
-78	(1)
 6.12 Implement run-length encoding
-79	(1)
 6.13 Find the first occurrence of a substring
-79	(3)
 7 Linked Lists
-82	(15)
 7.1 Merge two sorted lists
-84	(1)
 7.2 Reverse a single sublist
-85	(1)
 7.3 Test for cyclicity
-86	(1)
 7.4 Test for overlapping lists-lists are cycle-free
-87	(1)
 7.5 Test for overlapping lists-lists may have cycles
-88	(2)
 7.6 Delete a node from a singly linked list
-90	(1)
 7.7 Remove the kth last element from a list
-90	(1)
 7.8 Remove duplicates from a sorted list
-91	(1)
 7.9 Implement cyclic right shift for singly linked lists
-92	(1)
 7.10 Implement even-odd merge
-93	(1)
 7.11 Test whether a singly linked list is palindromic
-94	(1)
 7.12 Implement list pivoting
-95	(1)
 7.13 Add list-based integers
-96	(1)
 8 Stacks and Queues
-97	(16)
 8.1 Implement a stack with max API
-98	(2)
 8.2 Evaluate RPN expressions
-100	(2)
 8.3 Test a string over "{,},(,),[ ,]" for well-formedness
-102	(1)
 8.4 Normalize pathnames
-102	(2)
 8.5 Search a postings list
-104	(1)
 8.6 Compute buildings with a sunset view
-105	(2)
 8.7 Compute binary tree nodes in order of increasing depth
-107	(1)
 8.8 Implement a circular queue
-108	(1)
 8.9 Implement a queue using stacks
-109	(1)
 8.10 Implement a queue with max API
-110	(3)
 9 Binary Trees
-113	(21)
 9.1 Test if a binary tree is height-balanced
-115	(2)
 9.2 Test if a binary tree is symmetric
-117	(1)
 9.3 Compute the lowest common ancestor in a binary tree
-118	(1)
 9.4 Compute the LCA when nodes have parent pointers
-119	(1)
 9.5 Sum the root-to-leaf paths in a binary tree
-120	(1)
 9.6 Find a root to leaf path with specified sum
-121	(1)
 9.7 Implement an inorder traversal without recursion
-122	(1)
 9.8 Implement a preorder traversal without recursion
-122	(1)
 9.9 Compute the kth node in an inorder traversal
-123	(1)
 9.10 Compute the successor
-124	(1)
 9.11 Implement an inorder traversal with O(1) space
-125	(1)
 9.12 Reconstruct a binary tree from traversal data
-126	(2)
 9.13 Reconstruct a binary tree from a preorder traversal with markers
-128	(1)
 9.14 Form a linked list from the leaves of a binary tree
-129	(1)
 9.15 Compute the exterior of a binary tree
-129	(2)
 9.16 Compute the right sibling tree
-131	(1)
 9.17 Implement locking in a binary tree
-132	(2)
 10 Heaps
-134	(10)
 10.1 Merge sorted files
-136	(1)
 10.2 Sort an increasing-decreasing array
-137	(1)
 10.3 Sort an almost-sorted array
-138	(1)
 10.4 Compute the k closest stars
-139	(2)
 10.5 Compute the median of online data
-141	(1)
 10.6 Compute the k largest elements in a max-heap
-142	(1)
 10.7 Implement a stack API using a heap
-143	(1)
 11 Searching
-144	(17)
 11.1 Search a sorted array for first occurrence of k
-147	(1)
 11.2 Search a sorted array for entry equal to its index
-148	(1)
 11.3 Search a cyclically sorted array
-149	(1)
 11.4 Compute the integer square root
-150	(1)
 11.5 Compute the real square root
 151	(1)
 11.6 Search in a 2D sorted array
