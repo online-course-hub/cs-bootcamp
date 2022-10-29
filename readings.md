@@ -106,12 +106,11 @@
 
 ####
 
-Introduction
 I The Interview
 1 Getting Ready
 2 Strategies For A Great Interview
 3 Conducting An Interview
-II Data Structures and Algorithms		22	(288)
+II Data Structures and Algorithms
 4 Primitive Types
 4.1 Computing the parity of a word
 4.2 Swap bits
@@ -282,333 +281,168 @@ II Data Structures and Algorithms		22	(288)
 13.11 Compute a salary threshold
 199	(1)
 13.12 SORT5
-200	(1)
 14 Binary Search Trees
-201	(23)
 14.1 Test if a binary tree satisfies the BST property
-203	(2)
 14.2 Find the first key greater than a given value in a BST
-205	(1)
 14.3 Find the k largest elements in a BST
-206	(1)
 14.4 Compute the LCA in a BST
-207	(1)
 14.5 Reconstruct a BST from traversal data
-208	(2)
 14.6 Find the closest entries in three sorted arrays
-210	(1)
 14.7 Enumerate numbers of the form a + b squar root of 2
-211	(3)
 14.8 The most visited pages problem
-214	(1)
 14.9 Build a minimum height BST from a sorted array
-215	(1)
 14.10 Insertion and deletion in a BST
-216	(2)
 14.11 Test if three BST nodes are totally ordered
-218	(2)
 14.12 The range lookup problem
-220	(2)
 14.13 Add credits
-222	(2)
 15 Recursion
-224	(19)
 15.1 The Towers of Hanoi problem
-226	(2)
 15.2 Generate all nonattacking placements of n-Queens
-228	(1)
 15.3 Generate permutations
-229	(2)
 15.4 Generate the power set
-231	(2)
 15.5 Generate all subsets of size k
-233	(1)
 15.6 Generate strings of matched parens
-234	(1)
 15.7 Generate palindromic decompositions
-235	(1)
 15.8 Generate binary trees
-236	(1)
 15.9 Implement a Sudoku solver
-237	(2)
 15.10 Compute a Gray code
-239	(1)
 15.11 Compute the diameter of a tree
-240	(3)
 16 Dynamic Programming
-243	(25)
 16.1 Count the number of score combinations
-245	(3)
 16.2 Compute the Levenshtein distance
-248	(3)
 16.3 Count the number of ways to traverse a 2D array
-251	(2)
 16.4 Compute the binomial coefficients
-253	(1)
 16.5 Search for a sequence in a 2D array
-254	(1)
 16.6 The knapsack problem
-255	(3)
 16.7 The bedbathandbeyond.com problem
-258	(2)
 16.8 Find the minimum weight path in a triangle
-260	(1)
 16.9 Pick up coins for maximum gain
-261	(1)
 16.10 Count the number of moves to climb stairs
-262	(1)
 16.11 The pretty printing problem
-263	(3)
 16.12 Find the longest nondecreasing subsequence
-266	(2)
 17 Greedy Algorithms and Invariants
-268	(14)
 17.1 Compute an optimum assignment of tasks
-269	(1)
 17.2 Schedule to minimize waiting time
-270	(1)
 17.3 The interval covering problem
-271	(3)
 17.4 The 3-sum problem
-274	(1)
 17.5 Find the majority element
-275	(1)
 17.6 The gasup problem
-276	(2)
 17.7 Compute the maximum water trapped by a pair of vertical lines
-278	(1)
 17.8 Compute the largest rectangle under the skyline
-279	(3)
 18 Graphs
-282	(17)
 18.1 Search a maze
-285	(2)
 18.2 Paint a Boolean matrix
-287	(2)
 18.3 Compute enclosed regions
-289	(1)
 18.4 Deadlock detection
-290	(1)
 18.5 Clone a graph
-291	(1)
 18.6 Making wired connections
-292	(1)
 18.7 Transform one string to another
-293	(2)
 18.8 Team photo day-2
-295	(2)
 18.9 Compute a shortest path with fewest edges
-297	(2)
 19 Parallel Computing
-299	(11)
 19.1 Implement caching for a multithreaded dictionary
-300	(2)
 19.2 Analyze two unsynchronized interleaved threads
-302	(1)
 19.3 Implement synchronization for two interleaving threads
-303	(1)
 19.4 Implement a thread pool
-304	(1)
 19.5 Deadlock
-305	(1)
 19.6 The readers-writers problem
-306	(1)
 19.7 The readers-writers problem with write preference
-307	(1)
 19.8 Implement a Timer class
-308	(1)
 19.9 Test the Collatz conjecture in parallel
-309	(1)
-III Domain Specific Problems		310	(48)
+III Domain Specific Problems
 20 Design Problems
-311	(18)
 20.1 Design a spell checker
-312	(1)
 20.2 Design a solution to the stemming problem
-313	(1)
 20.3 Plagiarism detector
-314	(1)
 20.4 Pair users by attributes
-315	(1)
 20.5 Design a system for detecting copyright infringement
-316	(1)
 20.6 Design TEX
-317	(1)
 20.7 Design a search engine
-317	(1)
 20.8 Implement PageRank
-318	(2)
 20.9 Design TeraSort and PetaSort
-320	(1)
 20.10 Implement distributed throttling
-320	(1)
 20.11 Design a scalable priority system
-321	(1)
 20.12 Create photomosaics
-322	(1)
 20.13 Implement Mileage Run
-322	(2)
 20.14 Implement Connexus
-324	(1)
 20.15 Design an online advertising system
-325	(1)
 20.16 Design a recommendation system
-326	(1)
 20.17 Design an optimized way of distributing large files
-326	(1)
 20.18 Design the World Wide Web
-327	(1)
 20.19 Estimate the hardware cost of a photo sharing app
-328	(1)
 21 Language Questions
-329	(13)
 21.1 Garbage Collection
-329	(1)
 21.2 Closure
-329	(1)
 21.3 Shallow and deep copy
-330	(1)
 21.4 Iterators and Generators
-331	(1)
 21.5 @decorator
-331	(2)
 21.6 List vs tuple
-333	(1)
 21.7 *args and *kwargs
-334	(1)
 21.8 Python code
-335	(1)
 21.9 Exception Handling
-336	(2)
 21.10 Scoping
-338	(2)
 21.11 Function arguments
-340	(2)
 22 Object-Oriented Design
-342	(6)
 22.1 Template Method vs. Strategy
-342	(1)
 22.2 Observer pattern
-343	(1)
 22.3 Push vs. pull observer pattern
-343	(1)
 22.4 Singletons and Flyweights
-344	(1)
 22.5 Adapters
-345	(1)
 22.6 Creational Patterns
-346	(1)
 22.7 Libraries and design patterns
-347	(1)
 23 Common Tools
-348	(10)
 23.1 Merging in a version control system
-348	(2)
 23.2 Hooks
-350	(1)
 23.3 Is scripting more efficient?
-351	(1)
 23.4 Polymorphism with a scripting language
-352	(1)
 23.5 Dependency analysis
-352	(1)
 23.6 ANT vs. Maven
-353	(1)
 23.7 SQL vs. NoSQL
-354	(1)
 23.8 Normalization
-354	(1)
 23.9 SQL design
-355	(1)
 23.10 IP, TCP, and HTTP
-355	(1)
 23.11 HTTPS
-356	(1)
 23.12 DNS
-357	(1)
 IV The Honors Class		358	(64)
 24 Honors Class
-359	(63)
 24.1 Compute the greatest common divisor
-360	(1)
 24.2 Find the first missing positive entry
-361	(1)
 24.3 Buy and sell a stock k times
-362	(1)
 24.4 Compute the maximum product of all entries but one
-363	(2)
 24.5 Compute the longest contiguous increasing subarray
-365	(1)
 24.6 Rotate an array
-366	(2)
 24.7 Identify positions attacked by rooks
-368	(1)
 24.8 Justify text
-369	(1)
 24.9 Implement list zipping
-370	(1)
 24.10 Copy a postings list
-371	(1)
 24.11 Compute the longest substring with matching parens
-372	(1)
 24.12 Compute the maximum of a sliding window
-373	(2)
 24.13 Implement a postorder traversal without recursion
-375	(2)
 24.14 Compute fair bonuses
-377	(2)
 24.15 Search a sorted array of unknown length
-379	(1)
 24.16 Search in two sorted arrays
-380	(2)
 24.17 Find the kth largest element-large n, small k
-382	(1)
 24.18 Find an element that appears only once
-382	(2)
 24.19 Find the line through the most points
-384	(1)
 24.20 Find the shortest unique prefix
-385	(2)
 24.21 Find the most visited pages in a window
-387	(1)
 24.22 Convert a sorted doubly linked list into a BST
-388	(2)
 24.23 Convert a BST to a sorted doubly linked list
-390	(1)
 24.24 Merge two BSTs
-391	(1)
 24.25 The view from above
-392	(2)
 24.26 Implement regular expression matching
-394	(3)
 24.27 Synthesize an expression
-397	(2)
 24.28 Count inversions
-399	(1)
 24.29 Draw the skyline
-400	(2)
 24.30 Measure with defective jugs
-402	(2)
 24.31 Compute the maximum subarray sum in a circular array
-404	(1)
 24.32 Determine the critical height
-405	(2)
 24.33 Find the maximum 2D subarray
-407	(2)
 24.34 Implement Huffman coding
-409	(3)
 24.35 Trapping water
-412	(1)
 24.36 Search for a pair-sum in an abs-sorted array
-413	(3)
 24.37 The heavy hitter problem
-416	(1)
 24.38 Find the longest subarray whose sum
-417	(2)
 24.39 Road network
-419	(1)
 24.40 Test if arbitrage is possible
-420	(2)
-V Notation and Index		422	(1)
-Notation		423	(2)
-Index of Terms		425	
+V Notation and Index
