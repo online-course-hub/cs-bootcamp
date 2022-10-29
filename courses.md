@@ -17,7 +17,7 @@
       [ ] Week 01 - Welcome, Functions
       [ ] Week 02 - Control, Higher Order Functions, Environments    
       [ ] Week 03 - Design, Function Examples
-      [ ] Week 04 - Recuresion, Tree Recursion
+      [ ] Week 04 - Recursion, Tree Recursion
       [ ] Week 05 - Containers, Sequences, Data Abstraction
       [ ] Week 06 - Trees, Mutability, Syntax
       [ ] Week 07 - Iterators, Generators, Objects
