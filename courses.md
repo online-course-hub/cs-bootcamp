@@ -56,46 +56,46 @@
       
 #### [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
-      [ ] Lecture 01 - Introduction                 
-      [ ] Lecture 02 - Defining and Using Classes
-      [ ] Lecture 03 - Testing
-      [ ] Lecture 04 - References, Recursion, and Lists
-      [ ] Lecture 05 - SLLists, Nested Classes, Sentinel Nodes
-      [ ] Lecture 06 - DLLists, Arrays
-      [ ] Lecture 07 - ALists, Resizing, vs. SLists
-      [ ] Lecture 08 - Inheritance, Implements
-      [ ] Lecture 09 - Extends, Casting, Higher Order Functions
-      [ ] Lecture 10 - Subtype Polymorphism vs. HoFs
-      [ ] Lecture 11 - Exceptions, Iterators, Object Methods
-      [ ] Lecture 12 - Command Line Programming, Git, Project 2 Preview
-      [ ] Lecture 13 - Asymptotics 1
-      [ ] Lecture 14 - Disjoint Sets
-      [ ] Lecture 15 - Asymptotics 2
-      [ ] Lecture 16 - ADTs, Sets, Maps, Binary Search Trees
-      [ ] Lecture 17 - B-Trees
-      [ ] Lecture 18 - Red Black Trees
-      [ ] Lecture 19 - Hashing
-      [ ] Lecture 20 - Heaps and PQs
-      [ ] Lecture 21 - Tree and Graph Traversals
-      [ ] Lecture 22 - Graph Traversals and Implementations
-      [ ] Lecture 23 - Shortest Paths
-      [ ] Lecture 24 - Minimum Spanning Trees
-      [ ] Lecture 25 - Range Searching and Multi-Dimensional Data
-      [ ] Lecture 26 - Prefix Operations and Tries
-      [ ] Lecture 27 - Software Engineering I
-      [ ] Lecture 28 - Reductions and Decomposition
-      [ ] Lecture 29 - Basic Sorts
-      [ ] Lecture 30 - Quick Sort
-      [ ] Lecture 31 - Software Engineering II
-      [ ] Lecture 32 - More Quick Sort, Sorting Summary
-      [ ] Lecture 33 - Software Engineering III
-      [ ] Lecture 34 - Sorting and Algorithmic Bounds
-      [ ] Lecture 35 - Radix Sorts
-      [ ] Lecture 36 - Sorting and Data Structures Conclusion
-      [ ] Lecture 37 - Software Engineering IV
-      [ ] Lecture 38 - Compression
-      [ ] Lecture 39 - Compression, Complexity, and P=NP
-      [ ] Lecture 40 - Summary, Fun
+      [ ] Week 01 - Introduction
+                  - Defining and Using Classes
+      [ ] Week 02 - Testing
+                  - References, Recursion, and Lists
+                  - SLLists, Nested Classes, Sentinel Nodes
+      [ ] Week 03 - DLLists, Arrays
+                  - ALists, Resizing, vs. SLists
+                  - Inheritance, Implements
+      [ ] Week 04 - Extends, Casting, Higher Order Functions
+                  - Subtype Polymorphism vs. HoFs
+                  - Exceptions, Iterators, Object Methods
+      [ ] Week 05 - Command Line Programming, Git, Project 2 Preview
+                  - Asymptotics 1
+      [ ] Week 06 - Disjoint Sets
+                  - Asymptotics 2
+                  - ADTs, Sets, Maps, Binary Search Trees
+      [ ] Week 07 - B-Trees
+                  - Red Black Trees
+                  - Hashing
+      [ ] Week 08 - Heaps and PQs
+                  - Tree and Graph Traversals
+                  - Graph Traversals and Implementations
+      [ ] Week 09 - Shortest Paths
+                  - Minimum Spanning Trees
+                  - Range Searching and Multi-Dimensional Data
+      [ ] Week 11 - Prefix Operations and Tries
+                  - Software Engineering I
+                  - Reductions and Decomposition
+      [ ] Week 12 - Basic Sorts
+                  - Quick Sort
+                  - Software Engineering II
+      [ ] Week 13 - More Quick Sort, Sorting Summary
+                  - Software Engineering III
+                  - Sorting and Algorithmic Bounds
+      [ ] Week 14 - Radix Sorts
+                  - Sorting and Data Structures Conclusion
+                  - Software Engineering IV
+      [ ] Week 38 - Compression
+                  - Compression, Complexity, and P=NP
+                  - Summary, Fun
 
 #### [University of Helsinki - Full Stack Open 2022](https://fullstackopen.com/en/)<br>
 
