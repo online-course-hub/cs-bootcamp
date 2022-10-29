@@ -15,6 +15,7 @@
 #### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
       [ ] Lecture 01 - Introduction
+                     - Text
       [ ] Lecture 02 - Functions
       [ ] Lecture 03 - Control
       [ ] Lecture 04 - Higher Order Functions    
