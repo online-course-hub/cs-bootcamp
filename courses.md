@@ -12,7 +12,7 @@
       [ ] Week 09 - Flask
       [ ] Week 10 - Emoji
 
-#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+#### [Berkeley - CS 61A: Structure and Interpretation of Computer Programs]([https://inst.eecs.berkeley.edu/~cs61a/sp21/](https://inst.eecs.berkeley.edu/~cs61a/fa21/))<br>
 
       [ ] Lecture 01 - Introduction
                      - Text
