@@ -106,11 +106,11 @@
 
 ####
 
-I The Interview
-1 Getting Ready
-2 Strategies For A Great Interview
-3 Conducting An Interview
-II Data Structures and Algorithms
+    [ ] I The Interview
+        [ ] 1 Getting Ready
+        [ ] 2 Strategies For A Great Interview
+        [ ] 3 Conducting An Interview
+    II Data Structures and Algorithms
 4 Primitive Types
 4.1 Computing the parity of a word
 4.2 Swap bits
@@ -316,7 +316,7 @@ II Data Structures and Algorithms
 19.7 The readers-writers problem with write preference
 19.8 Implement a Timer class
 19.9 Test the Collatz conjecture in parallel
-III Domain Specific Problems
+    III Domain Specific Problems
 20 Design Problems
 20.1 Design a spell checker
 20.2 Design a solution to the stemming problem
@@ -370,7 +370,7 @@ III Domain Specific Problems
 23.10 IP, TCP, and HTTP
 23.11 HTTPS
 23.12 DNS
-IV The Honors Class		358	(64)
+    IV The Honors Class		358	(64)
 24 Honors Class
 24.1 Compute the greatest common divisor
 24.2 Find the first missing positive entry
@@ -412,4 +412,4 @@ IV The Honors Class		358	(64)
 24.38 Find the longest subarray whose sum
 24.39 Road network
 24.40 Test if arbitrage is possible
-V Notation and Index
+    V Notation and Index
