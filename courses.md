@@ -93,7 +93,7 @@
       [ ] Week 14 - Radix Sorts
                   - Sorting and Data Structures Conclusion
                   - Software Engineering IV
-      [ ] Week 38 - Compression
+      [ ] Week 15 - Compression
                   - Compression, Complexity, and P=NP
                   - Summary, Fun
 
