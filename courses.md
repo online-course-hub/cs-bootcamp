@@ -115,35 +115,37 @@
 
 #### [CMU - 15-445/645: Database Systems - Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
-      [ ] Lecture 01 - Why Study Databases
-      [ ] Lecture 02 - SQL I      
-      [ ] Lecture 03 - SQL II     
-      [ ] Lecture 04 - Disks, Files and Buffers I    
-      [ ] Lecture 05 - Disks, Files and Buffers II    
-      [ ] Lecture 06 - B+ Trees    
-      [ ] Lecture 07 - Refinements on Indices and B+ Trees    
-      [ ] Lecture 08 - Buffer Management    
-      [ ] Lecture 09 - Sorting and Hashing    
-      [ ] Lecture 10 - Relational Algebra    
-      [ ] Lecture 11 - Iterators and Joins    
-      [ ] Lecture 12 - Parallel Query Processing    
-      [ ] Lecture 13 - Query Optimization I - Plan Space    
-      [ ] Lecture 14 - Query Optimization II - Costs and Search    
-      [ ] Lecture 15 - Unstructured Data - Searching Text    
-      [ ] Lecture 16 - DB Design - Entity-Relationship Models    
-      [ ] Lecture 17 - DB Design - FDs and Normalization    
-      [ ] Lecture 18 - Transactions and Concurrency I    
-      [ ] Lecture 19 - Transactions and Concurrency II    
-      [ ] Lecture 20 - Recovery    
-      [ ] Lecture 21 - Web Crawlers and IR, Parallel Search and Ranking    
-      [ ] Lecture 22 - Distributed Transactions    
-      [ ] Lecture 23 - NoSQL      
-      [ ] Lecture 24 - MapReduce and Spark
+      [ ] Lecture 01 - Course Overview & Relational Model
+      [ ] Lecture 02 - Advanced SQL
+      [ ] Lecture 03 - Database Storage I    
+      [ ] Lecture 04 - Database Storage II   
+      [ ] Lecture 05 - Storage Models & Compression    
+      [ ] Lecture 06 - Memory Management    
+      [ ] Lecture 07 - Hash Tables   
+      [ ] Lecture 08 - Trees Indexes    
+      [ ] Lecture 09 - Index Concurrency Control    
+      [ ] Lecture 10 - Sorting & Aggregations Algorithms    
+      [ ] Lecture 11 - Joins Algorithms    
+      [ ] Lecture 12 - Query Execution I    
+      [ ] Lecture 13 - Query Execution II    
+      [ ] Lecture 14 - Query Planning & Optimization    
+      [ ] Lecture 15 - Concurrency Control Theory   
+      [ ] Lecture 16 - Two-Phase Locking Concurrency Control   
+      [ ] Lecture 17 - Timestamp Ordering Concurrency Control 
+      [ ] Lecture 18 - Multi-Version Concurrency Control    
+      [ ] Lecture 19 - Crash Recovery I    
+      [ ] Lecture 20 - Crash Recovery II   
+      [ ] Lecture 21 - Introduction to Distributed Databases   
+      [ ] Lecture 22 - Distributed OLTP Database Systems    
+      [ ] Lecture 23 - Distributed OLAP Database Systems   
+      [ ] Lecture 24 - Embedded Database Logic
+      [ ] Lecture 25 - Guest Speaker
+      [ ] Lecture 26 - Database Systems Q&A
 
 #### [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)<br>
 
-      [ ] Lecture 01 - Introduction / Ch 01 / Lab 01
-      [ ] Lecture 02 - Cause and Effect / Ch 02 / Hw 01
+      [ ] Lecture 01 - Introduction
+      [ ] Lecture 02 - Cause and Effect
       [ ] Lecture 03 - Tables
       [ ] Lecture 04 - Data Types
       [ ] Lecture 05 - Building Tables
