@@ -1,6 +1,6 @@
 ### INTRODUCTION
 
-This is a repos for personal bootcamp, made from free online US university courses. It's a mix of necessary knowledge to be a developer and subjects of interests.
+This is a repos for personal bootcamp. It's a mix of necessary knowledge to be a developer and subjects of interests.
 
 ### PREREQUISITES
 
