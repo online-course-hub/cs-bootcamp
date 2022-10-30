@@ -35,40 +35,20 @@
 
 #### [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
-      [ ] Lecture 01 - Introduction
-      [ ] Lecture 02 - Number Representation    
-      [ ] Lecture 03 - C Introduction - Basics    
-      [ ] Lecture 04 - C Introduction - Pointers, Array, Strings    
-      [ ] Lecture 05 - C Memory Management    
-      [ ] Lecture 06 - Floating Point    
-      [ ] Lecture 07 - RISC-V - Introduction    
-      [ ] Lecture 08 - RISC-V - Decisions I    
-      [ ] Lecture 09 - RISC-V - Decisions II    
-      [ ] Lecture 10 - RISC-V - Procedures    
-      [ ] Lecture 11 - RISC-V - Instruction Format I    
-      [ ] Lecture 12 - RISC-V - Intruction Format II    
-      [ ] Lecture 13 - Compilation, Assembly, Linking, Loading    
-      [ ] Lecture 14 - Introduction to Synchronous Digital Systems    
-      [ ] Lecture 15 - State, State Machines    
-      [ ] Lecture 16 - Combinational Logic I    
-      [ ] Lecture 17 - Combinational Logic II    
-      [ ] Lecture 18 - Single-Cycle CPU Datapath I    
-      [ ] Lecture 19 - Signle-Cycle CPU Datapath II    
-      [ ] Lecture 20 - Single-Cycle CPU Datapath III    
-      [ ] Lecture 21 - Pipelining I    
-      [ ] Lecture 22 - Pipelining II    
-      [ ] Lecture 23 - Pipelining III    
-      [ ] Lecture 24 - Caches I    
-      [ ] Lecture 25 - Caches II    
-      [ ] Lecture 26 - Caches III    
-      [ ] Lecture 27 - Caches IV    
-      [ ] Lecture 28 - OS & Virtual Memory    
-      [ ] Lecture 29 - Virtual Memory I    
-      [ ] Lecture 30 - Virtual Memory II    
-      [ ] Lecture 31 - I_O    
-      [ ] Lecture 32 - Flynn Taxonomy, SIMD Instructions    
-      [ ] Lecture 33 - Thread-Level Parallelism I    
-      [ ] Lecture 34 - Thread-Level Parallelism II
+      [ ] Week 01 - Intro, Number Representation, C Intro - Basics    
+      [ ] Week 02 - C Intro - Pointers, Arrays, Strings, C Memory (Mis)Management
+      [ ] Week 03 - Floating Point, Assembly, RISC-V Intro
+      [ ] Week 04 - RISC-V, RISC-V Functions, RISC-V Instruction Formats
+      [ ] Week 05 - Compiler, Assembler, Linker, Loader (CALL), Functional Units, Boolean Algebra
+      [ ] Week 06 - Introduction to Synchronous Digital Systems (SDS), RISC-V Datapath, Single-Cycle Control Intro
+      [ ] Week 07 - RISC-V Single-Cycle Control
+      [ ] Week 08 - RISC-V 5-Stage Pipeline/Hazards, Memory Hierarchy, Fully Associative Caches
+      [ ] Week 09 - Direct-Mapped & Set-Associative Caches, Cache Performance, Multi-Level Caches, Cache Questions
+      [ ] Week 11 - Flynn's Taxonomy, Data-Level Parallelism, Amdahl's Law, Thread-Level Parallelism, OpenMP Introduction
+      [ ] Week 12 - Cache Coherence, OpenMP Sharing Issues, Performance, Operating Systems
+      [ ] Week 13 - Virtual Memory, Virtual Memory II
+      [ ] Week 14 - Virtual Memory III and I/O, Dependability, Parity, ECC, RAID
+      [ ] Week 15 - Warehouse-Scale Computing, Summary, What's Next?
 
 #### [CMU - 15-445/645: Database Systems - Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
