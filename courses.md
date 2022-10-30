@@ -85,20 +85,33 @@
 
 #### [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
-      [ ] Week 01 - Intro, Number Representation, C Intro - Basics    
-      [ ] Week 02 - C Intro - Pointers, Arrays, Strings, C Memory (Mis)Management
-      [ ] Week 03 - Floating Point, Assembly, RISC-V Intro
-      [ ] Week 04 - RISC-V, RISC-V Functions, RISC-V Instruction Formats
-      [ ] Week 05 - Compiler, Assembler, Linker, Loader (CALL), Functional Units, Boolean Algebra
-      [ ] Week 06 - Introduction to Synchronous Digital Systems (SDS), RISC-V Datapath, Single-Cycle Control Intro
-      [ ] Week 07 - RISC-V Single-Cycle Control
-      [ ] Week 08 - RISC-V 5-Stage Pipeline/Hazards, Memory Hierarchy, Fully Associative Caches
-      [ ] Week 09 - Direct-Mapped & Set-Associative Caches, Cache Performance, Multi-Level Caches, Cache Questions
-      [ ] Week 11 - Flynn's Taxonomy, Data-Level Parallelism, Amdahl's Law, Thread-Level Parallelism, OpenMP Introduction
-      [ ] Week 12 - Cache Coherence, OpenMP Sharing Issues, Performance, Operating Systems
-      [ ] Week 13 - Virtual Memory, Virtual Memory II
-      [ ] Week 14 - Virtual Memory III and I/O, Dependability, Parity, ECC, RAID
-      [ ] Week 15 - Warehouse-Scale Computing, Summary, What's Next?
+      [ ] Lecture 01 - Intro, Number Representation
+      [ ] Lecture 02 - C Intro - Basics
+      [ ] Lecture 03 - C Intro - Pointers, Arrays, Strings
+      [ ] Lecture 04 - C Memory (Mis)Management
+      [ ] Lecture 05 - Floating Point, 
+      [ ] Lecture 06 - Assembly, RISC-V Intro
+      [ ] Lecture 07 - RISC-V, RISC-V Functions
+      [ ] Lecture 08 - RISC-V Instruction Formats
+      [ ] Lecture 09 - Compiler, Assembler, Linker, Loader (CALL)
+      [ ] Lecture 10 - Functional Units, Boolean Algebra
+      [ ] Lecture 11 - Introduction to Synchronous Digital Systems (SDS)
+      [ ] Lecture 12 - RISC-V Datapath, Single-Cycle Control Intro
+      [ ] Lecture 13 - RISC-V Single-Cycle Control
+      [ ] Lecture 14 - RISC-V 5-Stage Pipeline/Hazards
+      [ ] Lecture 15 - Memory Hierarchy, Fully Associative Caches
+      [ ] Lecture 16 - Direct-Mapped & Set-Associative Caches, Cache Performance
+      [ ] Lecture 17 - Multi-Level Caches, Cache Questions
+      [ ] Lecture 18 - Flynn's Taxonomy, Data-Level Parallelism
+      [ ] Lecture 19 - Amdahl's Law, Thread-Level Parallelism, OpenMP Introduction
+      [ ] Lecture 20 - Cache Coherence, OpenMP Sharing Issues, Performance
+      [ ] Lecture 21 - Operating Systems
+      [ ] Lecture 22 - Virtual Memory
+      [ ] Lecture 23 - Virtual Memory II
+      [ ] Lecture 24 - Virtual Memory III and I/O
+      [ ] Lecture 25 - Dependability, Parity, ECC, RAID
+      [ ] Lecture 26 - Warehouse-Scale Computing
+      [ ] Lecture 27 - Summary, What's Next?
 
 #### [CMU - 15-445/645: Database Systems - Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
