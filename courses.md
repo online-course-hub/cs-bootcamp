@@ -33,7 +33,7 @@
       [ ] Week 14 - Radix Sorts, Sorting and Data Structures Conclusion, Software Engineering IV
       [ ] Week 15 - Compression, Compression, Complexity, and P=NP, Summary, Fun
 
-#### [Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)<br>
+#### [Berkeley - CS61 C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Number Representation    
@@ -70,7 +70,7 @@
       [ ] Lecture 33 - Thread-Level Parallelism I    
       [ ] Lecture 34 - Thread-Level Parallelism II
 
-#### [Berkeley - CS186: Introduction to Database Systems](https://cs186berkeley.net/)
+#### [CMU - 15-445/645: Database Systems - Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
       [ ] Lecture 01 - Why Study Databases
       [ ] Lecture 02 - SQL I      
@@ -97,7 +97,7 @@
       [ ] Lecture 23 - NoSQL      
       [ ] Lecture 24 - MapReduce and Spark
 
-#### [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/)<br>
+#### [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)<br>
 
       [ ] Lecture 01 - Introduction / Ch 01 / Lab 01
       [ ] Lecture 02 - Cause and Effect / Ch 02 / Hw 01
@@ -142,7 +142,7 @@
       [ ] Lecture 40 - Algorithmic Bias
       [ ] Lecture 41 - Conclusion
 
-#### [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
+#### [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Data Sampling and Probability I    
