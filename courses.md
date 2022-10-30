@@ -1,3 +1,11 @@
+#### Table of Contents
+
+1. [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+2. [Berkeley - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+3. [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
+4. [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)<br>
+
+
 #### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
       [ ] Lecture 01 - Welcome
@@ -113,6 +121,23 @@
       [ ] Lecture 26 - Warehouse-Scale Computing
       [ ] Lecture 27 - Summary, What's Next?
 
+#### [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)<br>
+
+      [ ] Part 00 - Fundamentals of Web apps
+      [ ] Part 01 - Introduction to React
+      [ ] Part 02 - Communicating with server
+      [ ] Part 03 - Programming a server with NodeJS and Express
+      [ ] Part 04 - Testing Express servers, user administration
+      [ ] Part 05 - Testing React apps
+      [ ] Part 06 - State management with Redux
+      [ ] Part 07 - React router, custom hooks, styling app with CSS and webpack
+      [ ] Part 08 - GraphQL
+      [ ] Part 09 - TypeScript
+      [ ] Part 10 - React Native
+      [ ] Part 11 - CI/CD
+      [ ] Part 12 - Containers
+      [ ] Part 13 - Using relational databases
+
 #### [CMU - 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
       [ ] Lecture 01 - Course Overview & Relational Model
@@ -199,20 +224,3 @@
       [ ] Lecture 23 - Machine Learning: Neural Networks    
       [ ] Lecture 24 - Advanced Applications: Games and Robotics    
       [ ] Lecture 25 - Conclusion
-
-#### [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)<br>
-
-      [ ] Part 00 - Fundamentals of Web apps
-      [ ] Part 01 - Introduction to React
-      [ ] Part 02 - Communicating with server
-      [ ] Part 03 - Programming a server with NodeJS and Express
-      [ ] Part 04 - Testing Express servers, user administration
-      [ ] Part 05 - Testing React apps
-      [ ] Part 06 - State management with Redux
-      [ ] Part 07 - React router, custom hooks, styling app with CSS and webpack
-      [ ] Part 08 - GraphQL
-      [ ] Part 09 - TypeScript
-      [ ] Part 10 - React Native
-      [ ] Part 11 - CI/CD
-      [ ] Part 12 - Containers
-      [ ] Part 13 - Using relational databases
