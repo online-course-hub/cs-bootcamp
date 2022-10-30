@@ -4,9 +4,9 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 
 #### PREREQUISITES
 
-1. Fluency in English
-2. High School Mathematics
-3. DISCIPLINE
+- Fluency in English
+- High School Mathematics
+- DISCIPLINE
 
 #### CONTENTS
 
