@@ -1,13 +1,16 @@
 ### Contents
 
-1. [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)<br>
-2. [Berkeley - CS 61 B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)<br>
-3. [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)<br>
+1. [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)<br>
+2. [UCB - CS 61 B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)<br>
+3. [UCB - CS61 C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)<br>
 4. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)<br>
+5. [CMU - 15-445/645: Database Systems](https://github.com/woadray/bootcamp/blob/main/courses.md#cmu---15-445645-database-systems-github)
+6. [UCB - Data 100: Principles and Techniques of Data Science](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---data-100-principles-and-techniques-of-data-science-github)
+7. [UCB - CS 188: Introduction to Artificial Intelligence](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-188-introduction-to-artificial-intelligence)
 
 ### Courses
 
-#### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
       [ ] Lecture 01 - Welcome
       [ ] Lecture 02 - Functions
@@ -49,7 +52,7 @@
       [ ] Lecture 38 - Final Examples
       [ ] Lecture 39 - Conclusion
       
-#### [Berkeley - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [UCB - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -92,7 +95,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-#### [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
+#### [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
 
       [ ] Lecture 01 - Intro, Number Representation
       [ ] Lecture 02 - C Intro - Basics
@@ -168,7 +171,7 @@
       [ ] Lecture 25 - Guest Speaker
       [ ] Lecture 26 - Database Systems Q&A
 
-#### [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)<br>
+#### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Data Sampling and Probability I    
@@ -198,7 +201,7 @@
       [ ] Lecture 26 - Clustering    
       [ ] Lecture 27 - Guest Lecture: The Social Cost of Carbon
 
-#### [Berkeley - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
+#### [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Uninformed Search    
