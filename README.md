@@ -10,7 +10,7 @@ This is a repos for personal bootcamp. It's a mix of necessary knowledge to be a
 
 #### CONTENTS
 
-1. [UCB - CS 61A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)
+1. [UCB - CS 61A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---cs-61-a-structure-and-interpretation-of-computer-programs)
 2. [UCB - CS 61B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)
 3. [UCB - CS 61C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)
 4. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)
