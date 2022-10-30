@@ -1,8 +1,15 @@
 ### Introduction
 
-This is a repos of my personal bootcamp, made from free online US university courses. A mix of subjects of interest to me and some necessary knowledge to be a developer.  Hi, call me woadray, I'm a 31 year old guy living in a third world country. I've seen countless stories about self taught devs so i decided to try myself. 
+This is a repos of my personal bootcamp, made from free online US university courses. A mix of subjects of interest to me and some necessary knowledge to be a developer. 
 
 ---
+
+### Prerequisites
+
+1. Be fluent in english
+2. High schoool mathematics
+3. Discipline
+
 
 ### Plan
 The goal here is to get AND pass interviews, so the focus is on building shiny stuff to get noticed and learning how to pass tech interviews.
@@ -20,6 +27,7 @@ In CS 61A, we are interested in teaching you about programming, not about how to
 CS 61A primarily uses the Python 3 programming language. Python is a popular language in both industry and academia. It is also particularly well-suited to the task of exploring the topics taught in this course. It is an open-source language developed by a large volunteer community that prides itself on the diversity of its contributors. We will also use other languages in the latter half of the course, including the Scheme programming language and Structured Query Language (SQL).
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
 
-####
+#### Specialiazation
+
 
 ---
