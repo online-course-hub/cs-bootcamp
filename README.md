@@ -10,11 +10,11 @@ This is a repos for personal bootcamp. It's a mix of necessary knowledge to be a
 
 #### CONTENTS
 
-    1. [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)
-    2. [UCB - CS 61 B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)
-    3. [UCB - CS61 C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)
-    4. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)
-    5. [CMU - 15-445/645: Database Systems](https://github.com/woadray/bootcamp/blob/main/courses.md#cmu---15-445645-database-systems-github)
-    6. [UCB - Data 100: Principles and Techniques of Data Science](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---data-100-principles-and-techniques-of-data-science-github)
-    7. [UCB - CS 188: Introduction to Artificial Intelligence](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-188-introduction-to-artificial-intelligence)
+1. [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)
+2. [UCB - CS 61 B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)
+3. [UCB - CS61 C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)
+4. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)
+5. [CMU - 15-445/645: Database Systems](https://github.com/woadray/bootcamp/blob/main/courses.md#cmu---15-445645-database-systems-github)
+6. [UCB - Data 100: Principles and Techniques of Data Science](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---data-100-principles-and-techniques-of-data-science-github)
+7. [UCB - CS 188: Introduction to Artificial Intelligence](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-188-introduction-to-artificial-intelligence)
 
