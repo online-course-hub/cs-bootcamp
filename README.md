@@ -18,6 +18,6 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 ### Extras
 1. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)
 2. [UCB - Data 100: Principles and Techniques of Data Science](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---data-100-principles-and-techniques-of-data-science-github)
-3. [UCB - Data 101](https://data101.org/)
+3. [UCB - Data 101](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---data-101)
 4. [UCB - CS 188: Introduction to Artificial Intelligence](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---cs-188-introduction-to-artificial-intelligence)
 5. [CMU - 15-445/645: Database Systems](https://github.com/woadray/bootcamp/blob/main/courses.md#cmu---15-445645-database-systems-github)
