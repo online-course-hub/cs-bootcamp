@@ -19,7 +19,7 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 
 
 ##### Extras
-[UCB - CS 61C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---cs61-c-great-ideas-in-computer-architecture-github)
+- [UCB - CS 61C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---cs61-c-great-ideas-in-computer-architecture-github)
 - [UCB - Data 100: Principles and Techniques of Data Science](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---data-100-principles-and-techniques-of-data-science-github)
 - [UCB - Data 101: Data Engineering](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---data-101)
 - [UCB - CS 188: Introduction to Artificial Intelligence](https://github.com/woadray/bootcamp/blob/main/courses.md#ucb---cs-188-introduction-to-artificial-intelligence)
