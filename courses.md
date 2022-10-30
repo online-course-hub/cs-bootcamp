@@ -1,9 +1,9 @@
 #### Table of Contents
 
 1. [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-a-structure-and-interpretation-of-computer-programs)<br>
-2. [Berkeley - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
-3. [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
-4. [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)<br>
+2. [Berkeley - CS 61 B: Data Structures](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs-61-b-data-structures-github)<br>
+3. [Berkeley - CS61 C: Great Ideas in Computer Architecture](https://github.com/woadray/bootcamp/blob/main/courses.md#berkeley---cs61-c-great-ideas-in-computer-architecture-github)<br>
+4. [University of Helsinki - Full Stack Open](https://github.com/woadray/bootcamp/blob/main/courses.md#university-of-helsinki---full-stack-open)<br>
 
 
 #### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
