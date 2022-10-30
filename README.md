@@ -14,9 +14,6 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 - [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)
 - [UCB - CS 61 B: Data Structures](https://sp21.datastructur.es/) ([Github](https://github.com/orgs/Berkeley-CS61B/repositories))
 
-##### Readings
-
-
 ##### Extras
 - [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 - [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) ([Github](https://github.com/orgs/61c-teach/repositories))
