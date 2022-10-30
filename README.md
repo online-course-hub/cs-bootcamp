@@ -1,1 +1,17 @@
-# bootcamp
+### Introduction
+
+This is a repos of my personal bootcamp, made from free online US university courses. A mix of subjects of interest to me and some necessary knowledge to be a developer.  Hi, call me woadray, I'm a 31 year old guy living in a third world country. I've seen countless stories about self taught devs so i decided to try myself. 
+
+### Plan
+The goal here is to get AND pass interviews, so the focus is on building shiny stuff to get noticed and learning how to pass tech interviews.
+
+### Courses overview
+
+#### CS 61 Series
+The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
+CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
+CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
+CS 61C focuses on machines and how they execute programs.
+In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
+CS 61A primarily uses the Python 3 programming language. Python is a popular language in both industry and academia. It is also particularly well-suited to the task of exploring the topics taught in this course. It is an open-source language developed by a large volunteer community that prides itself on the diversity of its contributors. We will also use other languages in the latter half of the course, including the Scheme programming language and Structured Query Language (SQL).
+Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
