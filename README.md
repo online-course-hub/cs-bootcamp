@@ -1,6 +1,6 @@
 #### OVERVIEW
 
-This is a repos for personal bootcamp. It's a mix of necessary knowledge to be a developer and subjects of interests.
+This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be a developer and subjects of interests.
 
 #### PREREQUISITES
 
