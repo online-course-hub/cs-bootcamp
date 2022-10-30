@@ -130,35 +130,6 @@
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
 
-#### [CMU - 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
-
-      [ ] Lecture 01 - Course Overview & Relational Model
-      [ ] Lecture 02 - Advanced SQL
-      [ ] Lecture 03 - Database Storage I    
-      [ ] Lecture 04 - Database Storage II   
-      [ ] Lecture 05 - Storage Models & Compression    
-      [ ] Lecture 06 - Memory Management    
-      [ ] Lecture 07 - Hash Tables   
-      [ ] Lecture 08 - Trees Indexes    
-      [ ] Lecture 09 - Index Concurrency Control    
-      [ ] Lecture 10 - Sorting & Aggregations Algorithms    
-      [ ] Lecture 11 - Joins Algorithms    
-      [ ] Lecture 12 - Query Execution I    
-      [ ] Lecture 13 - Query Execution II    
-      [ ] Lecture 14 - Query Planning & Optimization    
-      [ ] Lecture 15 - Concurrency Control Theory   
-      [ ] Lecture 16 - Two-Phase Locking Concurrency Control   
-      [ ] Lecture 17 - Timestamp Ordering Concurrency Control 
-      [ ] Lecture 18 - Multi-Version Concurrency Control    
-      [ ] Lecture 19 - Crash Recovery I    
-      [ ] Lecture 20 - Crash Recovery II   
-      [ ] Lecture 21 - Introduction to Distributed Databases   
-      [ ] Lecture 22 - Distributed OLTP Database Systems    
-      [ ] Lecture 23 - Distributed OLAP Database Systems   
-      [ ] Lecture 24 - Embedded Database Logic
-      [ ] Lecture 25 - Guest Speaker
-      [ ] Lecture 26 - Database Systems Q&A
-
 #### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)<br>
 
       [ ] Lecture 01 - Introduction
@@ -219,3 +190,32 @@
       [ ] Lecture 23 - Machine Learning: Neural Networks    
       [ ] Lecture 24 - Advanced Applications: Games and Robotics    
       [ ] Lecture 25 - Conclusion
+
+#### [CMU - 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
+
+      [ ] Lecture 01 - Course Overview & Relational Model
+      [ ] Lecture 02 - Advanced SQL
+      [ ] Lecture 03 - Database Storage I    
+      [ ] Lecture 04 - Database Storage II   
+      [ ] Lecture 05 - Storage Models & Compression    
+      [ ] Lecture 06 - Memory Management    
+      [ ] Lecture 07 - Hash Tables   
+      [ ] Lecture 08 - Trees Indexes    
+      [ ] Lecture 09 - Index Concurrency Control    
+      [ ] Lecture 10 - Sorting & Aggregations Algorithms    
+      [ ] Lecture 11 - Joins Algorithms    
+      [ ] Lecture 12 - Query Execution I    
+      [ ] Lecture 13 - Query Execution II    
+      [ ] Lecture 14 - Query Planning & Optimization    
+      [ ] Lecture 15 - Concurrency Control Theory   
+      [ ] Lecture 16 - Two-Phase Locking Concurrency Control   
+      [ ] Lecture 17 - Timestamp Ordering Concurrency Control 
+      [ ] Lecture 18 - Multi-Version Concurrency Control    
+      [ ] Lecture 19 - Crash Recovery I    
+      [ ] Lecture 20 - Crash Recovery II   
+      [ ] Lecture 21 - Introduction to Distributed Databases   
+      [ ] Lecture 22 - Distributed OLTP Database Systems    
+      [ ] Lecture 23 - Distributed OLAP Database Systems   
+      [ ] Lecture 24 - Embedded Database Logic
+      [ ] Lecture 25 - Guest Speaker
+      [ ] Lecture 26 - Database Systems Q&A
