@@ -1,4 +1,4 @@
-#### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+#### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
       [ ] Lecture 01 - Welcome
       [ ] Lecture 02 - Functions
@@ -40,7 +40,7 @@
       [ ] Lecture 38 - Final Examples
       [ ] Lecture 39 - Conclusion
       
-#### [Berkeley - CS 61 B: Data Structures - Spring 2021](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [Berkeley - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -113,7 +113,7 @@
       [ ] Lecture 26 - Warehouse-Scale Computing
       [ ] Lecture 27 - Summary, What's Next?
 
-#### [CMU - 15-445/645: Database Systems - Fall 2022](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
+#### [CMU - 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) [(Github)](https://github.com/orgs/cmu-db/repositories)
 
       [ ] Lecture 01 - Course Overview & Relational Model
       [ ] Lecture 02 - Advanced SQL
@@ -245,7 +245,7 @@
       [ ] Lecture 24 - Advanced Applications: Games and Robotics    
       [ ] Lecture 25 - Conclusion
 
-#### [University of Helsinki - Full Stack Open - Spring 2022](https://fullstackopen.com/en/)<br>
+#### [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
