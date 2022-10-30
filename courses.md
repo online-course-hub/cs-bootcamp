@@ -1,20 +1,44 @@
 #### [Berkeley - CS 61 A: Structure and Interpretation of Computer Programs - Fall 2021](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
-      [ ] Week 01 - Welcome, Functions
-      [ ] Week 02 - Control, Higher Order Functions, Environments    
-      [ ] Week 03 - Design, Function Examples
-      [ ] Week 04 - Recursion, Tree Recursion
-      [ ] Week 05 - Containers, Sequences, Data Abstraction
-      [ ] Week 06 - Trees, Mutability, Syntax
-      [ ] Week 07 - Iterators, Generators, Objects
-      [ ] Week 08 - Inheritence, Representation, Recursive Objects
-      [ ] Week 09 - Efficiency, Decomposition, Data Examples
-      [ ] Week 10 - Users, Instructor AMA
-      [ ] Week 11 - Scheme, Exceptions, Calculator
-      [ ] Week 12 - Interpreters, Tail Calls, Regular Expressions
-      [ ] Week 13 - Backus-Naur Form, SQL, Tables
-      [ ] Week 14 - Aggregation
-      [ ] Week 15 - Web Apps (Optional), Final Examples, Conclusion
+      [ ] Lecture 01 - Welcome
+      [ ] Lecture 02 - Functions
+      [ ] Lecture 03 - Control
+      [ ] Lecture 04 - Higher Order Functions
+      [ ] Lecture 05 - Environments    
+      [ ] Lecture 06 - Design
+      [ ] Lecture 07 - Function Examples
+      [ ] Lecture 08 - Recursion
+      [ ] Lecture 09 - Tree Recursion
+      [ ] Lecture 10 - Containers
+      [ ] Lecture 11 - Sequences
+      [ ] Lecture 12 - Data Abstraction
+      [ ] Lecture 13 - Trees
+      [ ] Lecture 14 - Mutability
+      [ ] Lecture 15 - Syntax
+      [ ] Lecture 16 - Iterators
+      [ ] Lecture 17 - Generators
+      [ ] Lecture 18 - Objects
+      [ ] Lecture 19 - Inheritence
+      [ ] Lecture 20 - Representation
+      [ ] Lecture 21 - Recursive Objects
+      [ ] Lecture 22 - Efficiency
+      [ ] Lecture 23 - Decomposition
+      [ ] Lecture 24 - Data Examples
+      [ ] Lecture 25 - Users
+      [ ] Lecture 26 - Instructor AMA
+      [ ] Lecture 27 - Scheme
+      [ ] Lecture 28 - Exceptions
+      [ ] Lecture 29 - Calculator
+      [ ] Lecture 30 - Interpreters
+      [ ] Lecture 31 - Tail Calls
+      [ ] Lecture 32 - Regular Expressions
+      [ ] Lecture 33 - Backus-Naur Form
+      [ ] Lecture 34 - SQL
+      [ ] Lecture 35 - Tables
+      [ ] Lecture 36 - Aggregation
+      [ ] Lecture 37 - Web Apps (Optional)
+      [ ] Lecture 38 - Final Examples
+      [ ] Lecture 39 - Conclusion
       
 #### [Berkeley - CS 61 B: Data Structures - Spring 2021](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
