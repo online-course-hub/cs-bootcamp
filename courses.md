@@ -189,6 +189,9 @@
       [ ] Lecture 26 - Clustering    
       [ ] Lecture 27 - Guest Lecture: The Social Cost of Carbon
 
+#### [UCB - Data 101](https://data101.org/)
+
+
 #### [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 
       [ ] Lecture 01 - Introduction
