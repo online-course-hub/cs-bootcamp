@@ -8,4 +8,4 @@ This is a repos for personal bootcamp, made from free online US university cours
 2. High school mathematics
 3. DISCIPLINE
 
-### [COURSES](https://github.com/woadray/bootcamp/blob/main/courses.md)
+### [CONTENTS](https://github.com/woadray/bootcamp/blob/main/contents.md)
