@@ -1,6 +1,6 @@
 #### OVERVIEW
 
-This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be a developer and subjects of interests.
+This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be a developer and subjects of interests. It will serve both as a journal and a guide for future people who will attempt tu self study computer science.
 
 #### PREREQUISITES
 
