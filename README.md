@@ -20,3 +20,7 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 - [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) ([Github](https://github.com/orgs/DS-100/repositories))
 - [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 - [CMU - 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) ([Github](https://github.com/orgs/cmu-db/repositories))
+
+##### Readings
+- [Discrete Mathematics with Applications]()
+- [Elements of Programming Interviews in Python]()
