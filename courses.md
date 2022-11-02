@@ -1,18 +1,18 @@
 #### [University of Helsinki - Python Programming MOOC](https://programming-22.mooc.fi/)
 
-      Part 1: Getting started
-              Information from the user
-              More about variables
-              Arithmetic operations
-              Conditional statements
-      Part 2: Programming terminology
-              More conditionals
-              Combining conditions
-              Simple loops
-      Part 3: Loops with conditions
-              Working with strings
-              More loops
-              Defining functions
+      [ ] Part 1: Getting started
+                  Information from the user
+                  More about variables
+                  Arithmetic operations
+                  Conditional statements
+      [ ] Part 2: Programming terminology
+                  More conditionals
+                  Combining conditions
+                  Simple loops
+      [ ] Part 3: Loops with conditions
+                  Working with strings
+                  More loops
+                  Defining functions
 
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
