@@ -1,10 +1,17 @@
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
-      [+] Lecture 01 - Welcome + Disc 00: Getting Started + Lab 00: Getting Started (Optional)
-      [+] Lecture 02 - Functions + HW 01: Control
-      [+] Lecture 03 - Control + Lab 01: Variables & Functions, Control
-      [+] Lecture 04 - Higher Order Functions + Disc 01: Control, Environment Diagrams + Hog 
-      [+] Lecture 05 - Environments + HW 02: Higher-Order Functions
+      [+] Lecture 01: Welcome 
+                      Disc 00: Getting Started
+                      Lab 00: Getting Started (Optional)
+      [+] Lecture 02: Functions
+                      HW 01: Control
+      [+] Lecture 03: Control
+                      Lab 01: Variables & Functions, Control
+      [+] Lecture 04: Higher Order Functions
+                      Disc 01: Control, Environment Diagrams
+                      Hog 
+      [+] Lecture 05: Environments
+                      HW 02: Higher-Order Functions
       [ ] Lecture 06 - Design
       [ ] Lecture 07 - Function Examples
       [ ] Lecture 08 - Recursion
