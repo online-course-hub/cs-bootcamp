@@ -11,8 +11,7 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 #### CONTENTS
 
 ##### Preparation
-- [University of Helsinki - Introduction to Programming](https://programming-22.mooc.fi/)
-- [University of Helsinki - Advanced Course in Programming](https://programming-22.mooc.fi/)
+- [University of Helsinki - Python Programming MOOC](https://programming-22.mooc.fi/)
 
 ##### Foundations
 - [UCB - CS61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)
