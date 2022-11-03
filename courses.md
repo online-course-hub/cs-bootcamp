@@ -9,7 +9,7 @@
                   More conditionals
                   Combining conditions
                   Simple loops
-      [ ] Part 3: Loops with conditions
+      [+] Part 3: Loops with conditions
                   Working with strings
                   More loops
                   Defining functions
