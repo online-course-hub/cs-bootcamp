@@ -1,18 +1,38 @@
 #### [University of Helsinki - Python Programming MOOC](https://programming-22.mooc.fi/)
 
-      [+] Part 1: Getting started
-                  Information from the user
-                  More about variables
-                  Arithmetic operations
-                  Conditional statements
-      [+] Part 2: Programming terminology
-                  More conditionals
-                  Combining conditions
-                  Simple loops
-      [+] Part 3: Loops with conditions
-                  Working with strings
-                  More loops
-                  Defining functions
+      [+] Part 01: Getting started
+                   Information from the user
+                   More about variables
+                   Arithmetic operations
+                   Conditional statements
+      [+] Part 02: Programming terminology
+                   More conditionals
+                   Combining conditions
+                   Simple loops
+      [+] Part 03: Loops with conditions
+                   Working with strings
+                   More loops
+                   Defining functions
+      [ ] Part 04: The Visual Studio Code editor, Python interpreter and built-in debugging tool
+                   More functions
+                   Lists
+                   Definite iteration
+                   Print statement formatting
+                   More strings and lists
+      [ ] Part 05: More lists
+                   References
+                   Dictionary
+                   Tuple
+      [ ] Part 06: Reading files
+                   Writing files
+                   Handling errors
+                   Local and global variables
+      [ ] Part 07: Modules
+                   Randomness
+                   Times and dates
+                   Data processing
+                   Creating your own modules
+                   More Python features
 
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
 
