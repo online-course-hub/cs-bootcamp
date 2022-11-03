@@ -1,11 +1,11 @@
 #### [University of Helsinki - Python Programming MOOC](https://programming-22.mooc.fi/)
 
-      [ ] Part 1: Getting started
+      [+] Part 1: Getting started
                   Information from the user
                   More about variables
                   Arithmetic operations
                   Conditional statements
-      [ ] Part 2: Programming terminology
+      [+] Part 2: Programming terminology
                   More conditionals
                   Combining conditions
                   Simple loops
