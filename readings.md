@@ -16,7 +16,7 @@
             [ ] Chapter 05 - Making Choices
             [ ] Chapter 06 - A Modular Approach to Program Organization
 
-#### [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition)
+#### [Python Crash Course - Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 
             [ ] Chapter 01 - Getting Started
             [ ] Chapter 02 - Variables and Simple Data Types
