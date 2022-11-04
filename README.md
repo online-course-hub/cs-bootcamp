@@ -18,4 +18,4 @@ This is a repo for my personal bootcamp. It's a mix of necessary knowledge to be
 
 ##### Readings
 - [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
-- [Elements of Programming Interviews in Python]()
+- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
