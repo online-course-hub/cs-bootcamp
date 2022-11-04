@@ -78,7 +78,7 @@
             [ ] Chapter 7 - Graphs: Only Connect!
             [ ] Chapter 8 - Wrapping It Up
 
-#### [mpractical Python Projects - Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
+#### [Impractical Python Projects - Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
 
             [ ] Chapter 01 - Silly Name Generator
             [ ] Chapter 02 - Finding Palingram Spells
@@ -99,7 +99,7 @@
             
 #### [Real-World Python - Lee Vaughan](https://nostarch.com/real-world-python)
 
-            [ ] Chapter 01 -Saving Shipwrecked Sailors with Bayes’ Rule
+            [ ] Chapter 01 - Saving Shipwrecked Sailors with Bayes’ Rule
             [ ] Chapter 02 - Attributing Authorship with Stylometry
             [ ] Chapter 03 - Summarizing Speeches
             [ ] Chapter 04 - Sending Super-secret Messages
