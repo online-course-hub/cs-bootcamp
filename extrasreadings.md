@@ -66,3 +66,48 @@
             [ ] Chapter 18 - Getting Started with Django
             [ ] Chapter 19 - User Accounts
             [ ] Chapter 20 - Styling and Deploying an App
+
+#### [Learning Algorithms - George Heineman](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
+
+            [ ] Chapter 1 - Problem Solving
+            [ ] Chapter 2 - Analyzing Algorithms
+            [ ] Chapter 3 - Better Living Through Better Hashing
+            [ ] Chapter 4 - Heaping It On
+            [ ] Chapter 5 - Sorting Without a Hat
+            [ ] Chapter 6 - Binary Trees: Infinity in the Palm of Your Hand
+            [ ] Chapter 7 - Graphs: Only Connect!
+            [ ] Chapter 8 - Wrapping It Up
+
+#### [mpractical Python Projects - Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
+
+            [ ] Chapter 01 - Silly Name Generator
+            [ ] Chapter 02 - Finding Palingram Spells
+            [ ] Chapter 03 - Solving Anagrams
+            [ ] Chapter 04 - Decoding American Civil War Ciphers
+            [ ] Chapter 05 - Encoding English Civil War Ciphers
+            [ ] Chapter 06 - Writing in Invisible Ink
+            [ ] Chapter 07 - Breeding Giant Rats with Genetic Algorithms
+            [ ] Chapter 08 - Counting Syllables for Haiku Poetry
+            [ ] Chapter 09 - Writing Haiku with Markov Chain Analysis
+            [ ] Chapter 10 - Are We Alone? Exploring the Fermi Paradox
+            [ ] Chapter 11 - The Monty Hall Problem
+            [ ] Chapter 12 - Securing your Nest Egg
+            [ ] Chapter 13 - Simulating an Alien Volcano
+            [ ] Chapter 14 - Mapping Mars with the Mars Orbiter
+            [ ] Chapter 15 - Improving Your Astrophotography with Planet Stacking
+            [ ] Chapter 16 - Finding Frauds with Benford's La
+            
+#### [Real-World Python - Lee Vaughan](https://nostarch.com/real-world-python)
+
+            [ ] Chapter 01 -Saving Shipwrecked Sailors with Bayes’ Rule
+            [ ] Chapter 02 - Attributing Authorship with Stylometry
+            [ ] Chapter 03 - Summarizing Speeches
+            [ ] Chapter 04 - Sending Super-secret Messages
+            [ ] Chapter 05 - Finding Pluto
+            [ ] Chapter 06 - Winning the Moon Race with Apollo 8
+            [ ] Chapter 07 - Selecting Martian Landing Sites
+            [ ] Chapter 08 - Detecting Distant Exoplanets
+            [ ] Chapter 09 - Identifying Friend or Foe
+            [ ] Chapter 10 - Restricting Access with Face Recognition
+            [ ] Chapter 11 - Escaping the Walking Dead with Data Science
+            [ ] Chapter 12 - Are We Living in an Alien Simulation?
