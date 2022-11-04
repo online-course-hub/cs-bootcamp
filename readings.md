@@ -8,3 +8,10 @@
             [+] Chapter 06 - Loop with while and for
             
 #### [Practical Programming: An Introduction to Computer Science Using Python 3.6 -  Paul Gries, Jennifer Campbell, Jason Montojo](https://pragprog.com/titles/gwpy3/practical-programming-third-edition/)
+
+            [ ] Chapter 01 - What’s Programming?
+            [ ] Chapter 02 - Hello, Python
+            [ ] Chapter 03 - Designing and Using Functions
+            [ ] Chapter 04 - Working with Text
+            [ ] Chapter 05 - Making Choices
+            [ ] Chapter 06 - A Modular Approach to Program Organization
