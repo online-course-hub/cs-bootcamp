@@ -32,6 +32,17 @@
             [ ] Chapter 04 - Working with Text
             [ ] Chapter 05 - Making Choices
             [ ] Chapter 06 - A Modular Approach to Program Organization
+            [ ] Chapter 07 - Using Methods
+            [ ] Chapter 08 - Storing Collections of Data Using Lists
+            [ ] Chapter 09 - Repeating Code Using Loops
+            [ ] Chapter 10 - Reading and Writing Files
+            [ ] Chapter 11 - Storing Data Using Other Collection Types
+            [ ] Chapter 12 - Designing Algorithms
+            [ ] Chapter 13 - Searching and Sorting
+            [ ] Chapter 14 - Object-Oriented Programming
+            [ ] Chapter 15 - Testing and Debugging
+            [ ] Chapter 16 - Creating Graphical User Interfaces
+            [ ] Chapter 17 - Databases
 
 #### [Python Crash Course - Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 
