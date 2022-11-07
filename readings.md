@@ -13,7 +13,7 @@
     [ ] Chapter 11 - Analysis of Algorithm Efficiency
     [ ] Chapter 12 - Regular Expressions and Finite-State Automata
 
-#### [Digital Design and Computer Architecture - RISC-V Edition](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
+#### [Digital Design and Computer Architecture - RISC-V Edition - Sarah Harris, David Harris](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
 
     [ ] Chapter 01 - From Zero to One
     [ ] Chapter 02 - Combinational Logic Design
