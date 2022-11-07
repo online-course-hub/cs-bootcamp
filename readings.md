@@ -34,3 +34,23 @@
     [ ] Chapter 04 - The RISC-V Processor
     [ ] Chapter 05 - Large and Fast: Exploiting Memory Hierarchy
     [ ] Chapter 06 - Parallel Processors from Client to Cloud
+
+#### [Programming Language Pragmatics](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9)
+
+    [ ] Chatper 01 - Introduction
+    [ ] Chatper 02 - Programming Language Syntax
+    [ ] Chatper 03 - Names, Scopes, and Bindings
+    [ ] Chatper 04 - Semantic Analysis
+    [ ] Chatper 05 - Target Machine Architecture
+    [ ] Chatper 06 - Control Flow
+    [ ] Chatper 07 - Type Systems
+    [ ] Chatper 08 - Composite Types
+    [ ] Chatper 09 - Subroutines and Control Abstraction
+    [ ] Chatper 10 - Data Abstraction and Object Orientation
+    [ ] Chatper 11 - Functional Languages
+    [ ] Chatper 12 - Logic Languages
+    [ ] Chatper 13 - Concurrency
+    [ ] Chatper 14 - Scripting Languages
+    [ ] Chatper 15 - Building a Runnable Program
+    [ ] Chatper 16 - Run-Time Program Management
+    [ ] Chatper 17 - Code Improvement
