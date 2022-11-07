@@ -1,4 +1,4 @@
-#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/)<br>
+#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://cs61.org)<br>
 
       [+] Lecture 01: Welcome 
                       Disc 00: Getting Started
@@ -12,7 +12,9 @@
                       Hog 
       [+] Lecture 05: Environments
                       HW 02: Higher-Order Functions
-      [ ] Lecture 06 - Design
+      [ ] Lecture 06: Design
+                      Lab 02: Higher-Order Functions, Lambda Expressions
+                      
       [ ] Lecture 07 - Function Examples
       [ ] Lecture 08 - Recursion
       [ ] Lecture 09 - Tree Recursion
