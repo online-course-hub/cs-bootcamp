@@ -1,6 +1,6 @@
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://cs61.org)<br>
 
-      [+] Lecture 01: Welcome 
+      [+] Lecture 01: Computer Science
                       Disc 00: Getting Started
                       Lab 00: Getting Started (Optional)
       [+] Lecture 02: Functions
@@ -12,11 +12,12 @@
                       Hog 
       [+] Lecture 05: Environments
                       HW 02: Higher-Order Functions
-      [ ] Lecture 06: Design
-                      Lab 02: Higher-Order Functions, Lambda Expressions
-                      
-      [ ] Lecture 07 - Function Examples
-      [ ] Lecture 08 - Recursion
+      [ ] Lecture 06: Sound
+                      Lab 02: Higher-Order Functions, Lambda Expressions                      
+      [ ] Lecture 07: Functional Abstraction
+                      Disc 02: Environment Diagrams, Higher-Order Functions
+      [ ] Lecture 08: Function Examples
+                      Lab 03: Midterm Review (Optional)
       [ ] Lecture 09 - Tree Recursion
       [ ] Lecture 10 - Containers
       [ ] Lecture 11 - Sequences
