@@ -64,11 +64,11 @@
     [ ] Chapter 05 - CCA-Security and Authenticated Encryption. 
     [ ] Chapter 06 - Hash Functions and Applications. 
     [ ] Chapter 07 - Practical Constructions of Symmetric-Key Primitives. 
-    [ ] Chapter 08 - *Theoretical Constructions of Symmetric-Key Primitives. 
+    [ ] Chapter 08 - Theoretical Constructions of Symmetric-Key Primitives. 
     [ ] Chapter 09 - Number Theory and Cryptographic Hardness Assumptions. 
-    [ ] Chapter 10 - *Algorithms for Factoring and Computing Discrete Logarithms. 
+    [ ] Chapter 10 - Algorithms for Factoring and Computing Discrete Logarithms. 
     [ ] Chapter 11 - Key Management and the Public-Key Revolution. 
     [ ] Chapter 12 - Public-Key Encryption. 
     [ ] Chapter 13 - Digital Signature Schemes. 
-    [ ] Chapter 14 - *Post-Quantum Cryptography. 
-    [ ] Chapter 15 - *Advanced Topics in Public-Key Encryption.
+    [ ] Chapter 14 - Post-Quantum Cryptography. 
+    [ ] Chapter 15 - Advanced Topics in Public-Key Encryption.
