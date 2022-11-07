@@ -25,3 +25,12 @@
     [ ] Chapter 08 - Memory Systems
     [ ] Chapter 09 - I/O Systems
     [ ] Chapter 10 - e9. I/O Systems
+    
+#### [Computer Organization and Design - RISC-V Edition - David Patterson, John Hennessy](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
+
+    [ ] Chapter 01 - Computer Abstractions and Technology
+    [ ] Chapter 02 - Instructions: Language of the Computer
+    [ ] Chapter 03 - Arithmetic for Computers
+    [ ] Chapter 04 - The RISC-V Processor
+    [ ] Chapter 05 - Large and Fast: Exploiting Memory Hierarchy
+    [ ] Chapter 06 - Parallel Processors from Client to Cloud
