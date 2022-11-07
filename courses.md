@@ -18,8 +18,10 @@
                       Disc 02: Environment Diagrams, Higher-Order Functions
       [ ] Lecture 08: Function Examples
                       Lab 03: Midterm Review (Optional)
-      [ ] Lecture 09 - Tree Recursion
-      [ ] Lecture 10 - Containers
+      [ ] Lecture 09: Recursion
+                      Disc 03: Recursion
+      [ ] Lecture 10: Tree Recursion
+                      HW 03: Recursion, Tree Recursion
       [ ] Lecture 11 - Sequences
       [ ] Lecture 12 - Data Abstraction
       [ ] Lecture 13 - Trees
