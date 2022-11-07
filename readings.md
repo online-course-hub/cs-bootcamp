@@ -35,7 +35,7 @@
     [ ] Chapter 05 - Large and Fast: Exploiting Memory Hierarchy
     [ ] Chapter 06 - Parallel Processors from Client to Cloud
 
-#### [Programming Language Pragmatics](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9)
+#### [Programming Language Pragmatics - Michael Scott](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9)
 
     [ ] Chatper 01 - Introduction
     [ ] Chatper 02 - Programming Language Syntax
