@@ -1,4 +1,4 @@
-#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://cs61.org)<br>
+#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://cs61a.org/)<br>
 
       [+] Lecture 01: Computer Science
                       Disc 00: Getting Started
