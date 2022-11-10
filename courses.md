@@ -1,56 +1,43 @@
-#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://cs61a.org/)<br>
-
-      [+] Lecture 01: Computer Science
-                      Disc 00: Getting Started
-                      Lab 00: Getting Started (Optional)
-      [+] Lecture 02: Functions
-                      HW 01: Control
-      [+] Lecture 03: Control
-                      Lab 01: Variables & Functions, Control
-      [+] Lecture 04: Higher Order Functions
-                      Disc 01: Control, Environment Diagrams
-                      Hog 
-      [ ] Lecture 05: Environments
-                      HW 02: Higher-Order Functions
-      [ ] Lecture 06: Sound
-                      Lab 02: Higher-Order Functions, Lambda Expressions                      
-      [ ] Lecture 07: Functional Abstraction
-                      Disc 02: Environment Diagrams, Higher-Order Functions
-      [ ] Lecture 08: Function Examples
-                      Lab 03: Midterm Review (Optional)
-      [ ] Lecture 09: Recursion
-                      Disc 03: Recursion
-      [ ] Lecture 10: Tree Recursion
-                      HW 03: Recursion, Tree Recursion
-      [ ] Lecture 11 - Sequences
-      [ ] Lecture 12 - Data Abstraction
-      [ ] Lecture 13 - Trees
-      [ ] Lecture 14 - Mutability
-      [ ] Lecture 15 - Syntax
-      [ ] Lecture 16 - Iterators
-      [ ] Lecture 17 - Generators
-      [ ] Lecture 18 - Objects
-      [ ] Lecture 19 - Inheritence
-      [ ] Lecture 20 - Representation
-      [ ] Lecture 21 - Recursive Objects
-      [ ] Lecture 22 - Efficiency
-      [ ] Lecture 23 - Decomposition
-      [ ] Lecture 24 - Data Examples
-      [ ] Lecture 25 - Users
-      [ ] Lecture 26 - Instructor AMA
-      [ ] Lecture 27 - Scheme
-      [ ] Lecture 28 - Exceptions
-      [ ] Lecture 29 - Calculator
-      [ ] Lecture 30 - Interpreters
-      [ ] Lecture 31 - Tail Calls
-      [ ] Lecture 32 - Regular Expressions
-      [ ] Lecture 33 - Backus-Naur Form
-      [ ] Lecture 34 - SQL
-      [ ] Lecture 35 - Tables
-      [ ] Lecture 36 - Aggregation
-      [ ] Lecture 37 - Web Apps (Optional)
-      [ ] Lecture 38 - Final Examples
-      [ ] Lecture 39 - Conclusion
+#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+      
+      [ ] Lecture 01 - Introduction.mp4
+      [ ] Lecture 02 - Functions.mp4
+      [ ] Lecture 03 - Control.mp4 
+      [ ] Lecture 04 - Higher Order Functions.mp4 
+      [ ] Lecture 05 - Environments.mp4
+      [ ] Lecture 06 - Recursion.mp4
+      [ ] Lecture 07 - Tree Recursion.mp4
+      [ ] Lecture 08 - More on Functions.mp4                                      
+      [ ] Lecture 09 - Function Examples.mp4                                             
+      [ ] Lecture 10 - Containers.mp4                                                   
+      [ ] Lecture 11 - Data Abstraction.mp4                                             
+      [ ] Lecture 12 - Dictionaries, Matrices, and Trees.mp4                            
+      [ ] Lecture 13 - Creating Trees, Mutability, List Mutations.mp4                   
+      [ ] Lecture 14 - List Mutations, Identity vs. Equality, Global Nonlocal.mp4        
+      [ ] Lecture 15 - Iterators + Generators.mp4                                        
+      [ ] Lecture 16 - Objects + Classes.mp4                                             
+      [ ] Lecture 17 - Inheritance + Composition.mp4                                     
+      [ ] Lecture 18 - Special Object Methods.mp4                                       
+      [ ] Lecture 19 - Recursive Objects (LinkedList + Tree).mp4                        
+      [ ] Lecture 20 - Complexity.mp4                                                   
+      [ ] Lecture 21 - Memoization.mp4                                                  
+      [ ] Lecture 22 - Generics.mp4                                                     
+      [ ] Lecture 23 - Fun with Iterables.mp4                                           
+      [ ] Lecture 24 - Scheme.mp4                                                       
+      [ ] Lecture 25 - Scheme Examples.mp4                                              
+      [ ] Lecture 26 - Calculator.mp4                                                   
+      [ ] Lecture 27 - Interpreters.mp4                                                 
+      [ ] Lecture 28 - Undecidability.mp4                                               
+      [ ] Lecture 29 - Macros.mp4                                                       
+      [ ] Lecture 30 - Declarative Programming.mp4
+      [ ] Lecture 31 - Regular Expressions.mp4 
+      [ ] Lecture 32 - BNF.mp4
+      [ ] Lecture 33 - Review Regular Expressions + BNF.mp4
+      [ ] Lecture 34 - Review Scheme.mp4 
+      [ ] Lecture 35 - Intro to SQL.mp4
+      [ ] Lecture 36 - Review Linked Lists + Trees.mp4   
+      [ ] Lecture 37 - OOP Review + Design.mp4   
+      [ ] Lecture 38 - Conclusion.mp4
       
 #### [UCB - CS 61 B: Data Structures - MB7ZPY](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
