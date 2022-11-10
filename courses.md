@@ -52,9 +52,7 @@
       [ ] Lecture 38 - Final Examples
       [ ] Lecture 39 - Conclusion
       
-#### [UCB - CS 61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
-
-Gradescope password: MB7ZPY
+#### [UCB - CS 61 B: Data Structures - MB7ZPY](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
