@@ -10,7 +10,7 @@
       [+] Lecture 04: Higher Order Functions
                       Disc 01: Control, Environment Diagrams
                       Hog 
-      [+] Lecture 05: Environments
+      [ ] Lecture 05: Environments
                       HW 02: Higher-Order Functions
       [ ] Lecture 06: Sound
                       Lab 02: Higher-Order Functions, Lambda Expressions                      
