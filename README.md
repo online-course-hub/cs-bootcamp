@@ -10,6 +10,10 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 
 #### CONTENTS
 
+##### Preparation
+
+- [How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://htdp.org/2022-8-7/Book/index.html)
+
 ##### Foundations
 - [UCB - CS61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
 - [UCB - CS61 B: Data Structures](https://sp21.datastructur.es/) ([Github](https://github.com/orgs/Berkeley-CS61B/repositories))
