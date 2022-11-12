@@ -11,8 +11,7 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 #### CONTENTS
 
 ##### Preparation
-
-- [How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://htdp.org/2022-8-7/Book/index.html)
+- [How to Design Programs](https://htdp.org/2022-8-7/Book/index.html)
 
 ##### Foundations
 - [UCB - CS61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
@@ -22,4 +21,3 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 
 ##### Readings
 - [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
-- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
