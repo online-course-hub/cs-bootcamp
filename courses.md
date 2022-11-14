@@ -184,3 +184,5 @@
       [ ] Lecture 24 - Clustering  
       [ ] Lecture 25 - Guest Speaker: Amol Deshpande - Data Regulations
       [ ] Lecture 26 - Guest Speaker: Matei Zaharia - Parallel Data Analytics; Conclusion
+
+#### [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
