@@ -1,43 +1,43 @@
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
       
-      [ ] Lecture 01 - Introduction.mp4
-      [ ] Lecture 02 - Functions.mp4
-      [ ] Lecture 03 - Control.mp4 
-      [ ] Lecture 04 - Higher Order Functions.mp4 
-      [ ] Lecture 05 - Environments.mp4
-      [ ] Lecture 06 - Recursion.mp4
-      [ ] Lecture 07 - Tree Recursion.mp4
-      [ ] Lecture 08 - More on Functions.mp4                                      
-      [ ] Lecture 09 - Function Examples.mp4                                             
-      [ ] Lecture 10 - Containers.mp4                                                   
-      [ ] Lecture 11 - Data Abstraction.mp4                                             
-      [ ] Lecture 12 - Dictionaries, Matrices, and Trees.mp4                            
-      [ ] Lecture 13 - Creating Trees, Mutability, List Mutations.mp4                   
-      [ ] Lecture 14 - List Mutations, Identity vs. Equality, Global Nonlocal.mp4        
-      [ ] Lecture 15 - Iterators + Generators.mp4                                        
-      [ ] Lecture 16 - Objects + Classes.mp4                                             
-      [ ] Lecture 17 - Inheritance + Composition.mp4                                     
-      [ ] Lecture 18 - Special Object Methods.mp4                                       
-      [ ] Lecture 19 - Recursive Objects (LinkedList + Tree).mp4                        
-      [ ] Lecture 20 - Complexity.mp4                                                   
-      [ ] Lecture 21 - Memoization.mp4                                                  
-      [ ] Lecture 22 - Generics.mp4                                                     
-      [ ] Lecture 23 - Fun with Iterables.mp4                                           
-      [ ] Lecture 24 - Scheme.mp4                                                       
-      [ ] Lecture 25 - Scheme Examples.mp4                                              
-      [ ] Lecture 26 - Calculator.mp4                                                   
-      [ ] Lecture 27 - Interpreters.mp4                                                 
-      [ ] Lecture 28 - Undecidability.mp4                                               
-      [ ] Lecture 29 - Macros.mp4                                                       
-      [ ] Lecture 30 - Declarative Programming.mp4
-      [ ] Lecture 31 - Regular Expressions.mp4 
-      [ ] Lecture 32 - BNF.mp4
-      [ ] Lecture 33 - Review Regular Expressions + BNF.mp4
-      [ ] Lecture 34 - Review Scheme.mp4 
-      [ ] Lecture 35 - Intro to SQL.mp4
-      [ ] Lecture 36 - Review Linked Lists + Trees.mp4   
-      [ ] Lecture 37 - OOP Review + Design.mp4   
-      [ ] Lecture 38 - Conclusion.mp4
+      [ ] Lecture 01 - Introduction
+      [ ] Lecture 02 - Functions
+      [ ] Lecture 03 - Control 
+      [ ] Lecture 04 - Higher Order Functions 
+      [ ] Lecture 05 - Environments
+      [ ] Lecture 06 - Recursion
+      [ ] Lecture 07 - Tree Recursion
+      [ ] Lecture 08 - More on Functions                                      
+      [ ] Lecture 09 - Function Examples                                             
+      [ ] Lecture 10 - Containers                                                   
+      [ ] Lecture 11 - Data Abstraction                                             
+      [ ] Lecture 12 - Dictionaries, Matrices, and Trees                            
+      [ ] Lecture 13 - Creating Trees, Mutability, List Mutations                   
+      [ ] Lecture 14 - List Mutations, Identity vs. Equality, Global Nonlocal        
+      [ ] Lecture 15 - Iterators + Generators                                        
+      [ ] Lecture 16 - Objects + Classes                                             
+      [ ] Lecture 17 - Inheritance + Composition                                     
+      [ ] Lecture 18 - Special Object Methods                                       
+      [ ] Lecture 19 - Recursive Objects (LinkedList + Tree)                        
+      [ ] Lecture 20 - Complexity                                                   
+      [ ] Lecture 21 - Memoization                                                  
+      [ ] Lecture 22 - Generics                                                     
+      [ ] Lecture 23 - Fun with Iterables                                           
+      [ ] Lecture 24 - Scheme                                                       
+      [ ] Lecture 25 - Scheme Examples                                              
+      [ ] Lecture 26 - Calculator                                                   
+      [ ] Lecture 27 - Interpreters                                                 
+      [ ] Lecture 28 - Undecidability                                               
+      [ ] Lecture 29 - Macros                                                       
+      [ ] Lecture 30 - Declarative Programming
+      [ ] Lecture 31 - Regular Expressions 
+      [ ] Lecture 32 - BNF
+      [ ] Lecture 33 - Review Regular Expressions + BNF
+      [ ] Lecture 34 - Review Scheme 
+      [ ] Lecture 35 - Intro to SQL
+      [ ] Lecture 36 - Review Linked Lists + Trees   
+      [ ] Lecture 37 - OOP Review + Design   
+      [ ] Lecture 38 - Conclusion
       
 #### [UCB - CS 61 B: Data Structures - MB7ZPY](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
 
@@ -114,73 +114,73 @@
 
 #### [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/)
 
-Lecture 01 - Introduction.webm                                                                                                           
-Lecture 02 - Cause and Effect.webm                                                                                                       
-Lecture 03 - Tables.webm                                                                                                                 
-Lecture 04 - Data Types.webm                                                                                                             
-Lecture 05 - Building Tables.webm                                                                                                        
-Lecture 06 - Census.webm                                                                                                                 
-Lecture 07 - Charts.webm                                                                                                                 
-Lecture 08 - Histograms.webm                                                                                                             
-Lecture 09 - Functions.webm                                                                                                              
-Lecture 10 - Groups.webm                                                                                                                 
-Lecture 11 - Groups and Pivots.webm                                                                                                      
-Lecture 12 - Joins and Table Examples.webm                                                                                               
-Lecture 13 - Iteration.webm                                                                                                              
-Lecture 14 - Chance and Sampling.webm                                                                                                    
-Lecture 14 - Simulations.webm                                                                                                            
-Lecture 15 - Sampling.webm                                                                                                               
-Lecture 17 - Assessing Models.webm                                                                                                       
-Lecture 18 - Decisions and Uncertainty.webm                                                                                              
-Lecture 20 - Causality.webm                                                                                                              
-Lecture 21 - Examples.webm                                                                                                               
-Lecture 22 - Midterm Review.webm                                                                                                         
-Lecture 23 - Bootstrap.webm                                                                                                              
-Lecture 24 - Confidence Intervals.webm                                                                                                   
-Lecture 25 - Center and Spread.webm                                                                                                      
-Lecture 26 - The Normal Distribution.webm                                                                                                
-Lecture 27 - Sample Means.webm                                                                                                           
-Lecture 28 - Designing Experiments.webm                                                                                                  
-Lecture 29 - Correlation.webm                                                                                                            
-Lecture 29 - Decisions and Uncertainty.webm                                                                                              
-Lecture 30 - Linear Regression.webm                                                                                                      
-Lecture 31 - Least Squares.webm                                                                                                          
-Lecture 32 - Residuals.webm                                                                                                      
-Lecture 33 - Regression Inference.webm
-Lecture 34 - Privacy.webm                                                                                                                
-Lecture 35 - Classification.webm                                                                                                         
-Lecture 36 - Classifiers.webm                                                                                                            
-Lecture 37 - Classifiers II.webm                                                                                                         
-Lecture 38 - Updating Probabilities.webm                                                                                                 
-Lecture 39 - Case Studies.webm                                                                                                           
-Lecture 40 - Algorithmic Bias.webm                                                                                                       
-Lecture 41 - Conclusion.mp4 
+      [ ] Lecture 01 - Introduction                                                                                                           
+      [ ] Lecture 02 - Cause and Effect                                                                                                       
+      [ ] Lecture 03 - Tables                                                                                                                 
+      [ ] Lecture 04 - Data Types                                                                                                             
+      [ ] Lecture 05 - Building Tables                                                                                                        
+      [ ] Lecture 06 - Census                                                                                                                 
+      [ ] Lecture 07 - Charts                                                                                                                 
+      [ ] Lecture 08 - Histograms                                                                                                             
+      [ ] Lecture 09 - Functions                                                                                                              
+      [ ] Lecture 10 - Groups                                                                                                                 
+      [ ] Lecture 11 - Groups and Pivots                                                                                                      
+      [ ] Lecture 12 - Joins and Table Examples                                                                                               
+      [ ] Lecture 13 - Iteration                                                                                                              
+      [ ] Lecture 14 - Chance and Sampling                                                                                                    
+      [ ] Lecture 14 - Simulations                                                                                                            
+      [ ] Lecture 15 - Sampling                                                                                                               
+      [ ] Lecture 17 - Assessing Models                                                                                                       
+      [ ] Lecture 18 - Decisions and Uncertainty                                                                                              
+      [ ] Lecture 20 - Causality                                                                                                              
+      [ ] Lecture 21 - Examples                                                                                                               
+      [ ] Lecture 22 - Midterm Review                                                                                                         
+      [ ] Lecture 23 - Bootstrap                                                                                                              
+      [ ] Lecture 24 - Confidence Intervals                                                                                                   
+      [ ] Lecture 25 - Center and Spread                                                                                                      
+      [ ] Lecture 26 - The Normal Distribution                                                                                                
+      [ ] Lecture 27 - Sample Means                                                                                                           
+      [ ] Lecture 28 - Designing Experiments                                                                                                  
+      [ ] Lecture 29 - Correlation                                                                                                            
+      [ ] Lecture 29 - Decisions and Uncertainty                                                                                              
+      [ ] Lecture 30 - Linear Regression                                                                                                      
+      [ ] Lecture 31 - Least Squares                                                                                                          
+      [ ] Lecture 32 - Residuals                                                                                                      
+      [ ] Lecture 33 - Regression Inference
+      [ ] Lecture 34 - Privacy                                                                                                                
+      [ ] Lecture 35 - Classification                                                                                                         
+      [ ] Lecture 36 - Classifiers                                                                                                            
+      [ ] Lecture 37 - Classifiers II                                                                                                         
+      [ ] Lecture 38 - Updating Probabilities                                                                                                 
+      [ ] Lecture 39 - Case Studies                                                                                                           
+      [ ] Lecture 40 - Algorithmic Bias                                                                                                       
+      [ ] Lecture 41 - Conclusion 
 
 #### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)
 
-Lecture 01 - Course Overview                                                                                                             
-Lecture 02 - Sampling and Probability                                                                                                    
-Lecture 03 - Pandas I                                                                                                                    
-Lecture 04 - Pandas II                                                                                                                   
-Lecture 05 - Data Wrangling, EDA                                                                                                         
-Lecture 06 - Regex                                                                                                                       
-Lecture 07 - Visualization I                                                                                                             
-Lecture 08 - Visualization II                                                                                                            
-Lecture 09 - Intro to Modeling, Simple Linear Regression                                                                                 
-Lecture 10 - Constant Model, Loss, and Transformations                                                                                   
-Lecture 11 - Ordinary Least Squares (Multiple Linear Regression)                                                                         
-Lecture 12 - Gradient Descent, sklearn                                                                                                   
-Lecture 13 - Feature Engineering                                                                                                         
-Lecture 14 - Case Study (HCE): Fairness in Housing Appraisal                                                                             
-Lecture 15 - Cross-Validation and Regularization                                                                                         
-Lecture 16 - Probability I: Random Variables                                                                                             
-Lecture 17 - Probability II: Estimators, Bias, and Variance                                                                              
-Lecture 18 - SQL I                                                                                                                       
-Lecture 19 - SQL II and PCA I                                                                                                            
-Lecture 20 - PCA II                                                                                                                      
-Lecture 21 - Classification and Logistic Regression I                                                                                    
-Lecture 22 - Logistic Regression II                                                                                                      
-Lecture 23 - Decision Trees                                                                                                              
-Lecture 24 - Clustering                                                                                                                  
-Lecture 25 - Guest Speaker: Amol Deshpande - Data Regulations                                                                            
-Lecture 26 - Guest Speaker: Matei Zaharia - Parallel Data Analytics; Conclusion
+      [ ] Lecture 01 - Course Overview                                                                                                             
+      [ ] Lecture 02 - Sampling and Probability                                                                                                    
+      [ ] Lecture 03 - Pandas I                                                                                                                    
+      [ ] Lecture 04 - Pandas II                                                                                                                   
+      [ ] Lecture 05 - Data Wrangling, EDA                                                                                                         
+      [ ] Lecture 06 - Regex                                                                                                                       
+      [ ] Lecture 07 - Visualization I                                                                                                             
+      [ ] Lecture 08 - Visualization II                                                                                                            
+      [ ] Lecture 09 - Intro to Modeling, Simple Linear Regression                                                                                 
+      [ ] Lecture 10 - Constant Model, Loss, and Transformations                                                                                   
+      [ ] Lecture 11 - Ordinary Least Squares (Multiple Linear Regression)                                                                         
+      [ ] Lecture 12 - Gradient Descent, sklearn                                                                                                   
+      [ ] Lecture 13 - Feature Engineering                                                                                                         
+      [ ] Lecture 14 - Case Study (HCE): Fairness in Housing Appraisal                                                                             
+      [ ] Lecture 15 - Cross-Validation and Regularization                                                                                         
+      [ ] Lecture 16 - Probability I: Random Variables                                                                                             
+      [ ] Lecture 17 - Probability II: Estimators, Bias, and Variance                                                                              
+      [ ] Lecture 18 - SQL I                                                                                                                       
+      [ ] Lecture 19 - SQL II and PCA I                                                                                                            
+      [ ] Lecture 20 - PCA II                                                                                                                      
+      [ ] Lecture 21 - Classification and Logistic Regression I                                                                                    
+      [ ] Lecture 22 - Logistic Regression II                                                                                                      
+      [ ] Lecture 23 - Decision Trees                                                                                                              
+      [ ] Lecture 24 - Clustering                                                                                                                  
+      [ ] Lecture 25 - Guest Speaker: Amol Deshpande - Data Regulations                                                                            
+      [ ] Lecture 26 - Guest Speaker: Matei Zaharia - Parallel Data Analytics; Conclusion
