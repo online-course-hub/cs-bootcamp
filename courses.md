@@ -158,29 +158,29 @@
 
 #### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)
 
-      [ ] Lecture 01 - Course Overview                                                                                                             
-      [ ] Lecture 02 - Sampling and Probability                                                                                                    
-      [ ] Lecture 03 - Pandas I                                                                                                                    
-      [ ] Lecture 04 - Pandas II                                                                                                                   
-      [ ] Lecture 05 - Data Wrangling, EDA                                                                                                         
-      [ ] Lecture 06 - Regex                                                                                                                       
-      [ ] Lecture 07 - Visualization I                                                                                                             
-      [ ] Lecture 08 - Visualization II                                                                                                            
-      [ ] Lecture 09 - Intro to Modeling, Simple Linear Regression                                                                                 
-      [ ] Lecture 10 - Constant Model, Loss, and Transformations                                                                                   
-      [ ] Lecture 11 - Ordinary Least Squares (Multiple Linear Regression)                                                                         
-      [ ] Lecture 12 - Gradient Descent, sklearn                                                                                                   
-      [ ] Lecture 13 - Feature Engineering                                                                                                         
-      [ ] Lecture 14 - Case Study (HCE): Fairness in Housing Appraisal                                                                             
-      [ ] Lecture 15 - Cross-Validation and Regularization                                                                                         
-      [ ] Lecture 16 - Probability I: Random Variables                                                                                             
-      [ ] Lecture 17 - Probability II: Estimators, Bias, and Variance                                                                              
-      [ ] Lecture 18 - SQL I                                                                                                                       
-      [ ] Lecture 19 - SQL II and PCA I                                                                                                            
-      [ ] Lecture 20 - PCA II                                                                                                                      
-      [ ] Lecture 21 - Classification and Logistic Regression I                                                                                    
-      [ ] Lecture 22 - Logistic Regression II                                                                                                      
-      [ ] Lecture 23 - Decision Trees                                                                                                              
-      [ ] Lecture 24 - Clustering                                                                                                                  
-      [ ] Lecture 25 - Guest Speaker: Amol Deshpande - Data Regulations                                                                            
+      [ ] Lecture 01 - Course Overview
+      [ ] Lecture 02 - Sampling and Probability 
+      [ ] Lecture 03 - Pandas I
+      [ ] Lecture 04 - Pandas II
+      [ ] Lecture 05 - Data Wrangling, EDA
+      [ ] Lecture 06 - Regex    
+      [ ] Lecture 07 - Visualization I 
+      [ ] Lecture 08 - Visualization II 
+      [ ] Lecture 09 - Intro to Modeling, Simple Linear Regression 
+      [ ] Lecture 10 - Constant Model, Loss, and Transformations 
+      [ ] Lecture 11 - Ordinary Least Squares (Multiple Linear Regression)
+      [ ] Lecture 12 - Gradient Descent, sklearn   
+      [ ] Lecture 13 - Feature Engineering
+      [ ] Lecture 14 - Case Study (HCE): Fairness in Housing Appraisal  
+      [ ] Lecture 15 - Cross-Validation and Regularization 
+      [ ] Lecture 16 - Probability I: Random Variables
+      [ ] Lecture 17 - Probability II: Estimators, Bias, and Variance 
+      [ ] Lecture 18 - SQL I  
+      [ ] Lecture 19 - SQL II and PCA I
+      [ ] Lecture 20 - PCA II    
+      [ ] Lecture 21 - Classification and Logistic Regression I 
+      [ ] Lecture 22 - Logistic Regression II  
+      [ ] Lecture 23 - Decision Trees  
+      [ ] Lecture 24 - Clustering  
+      [ ] Lecture 25 - Guest Speaker: Amol Deshpande - Data Regulations
       [ ] Lecture 26 - Guest Speaker: Matei Zaharia - Parallel Data Analytics; Conclusion
