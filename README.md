@@ -19,6 +19,9 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 - [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)
 - [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
 
+##### Artificial Intelligence
+- [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
+
 ##### Web Development
 - [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 
