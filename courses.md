@@ -187,28 +187,28 @@
 
 #### [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 
-Lecture 01 - Introduction.mp4                                                                                                            
-Lecture 02 - Uninformed Search.mp4                                                                                                       
-Lecture 03 - UCS, A_, and Heuristics.mp4                                                                                                 
-Lecture 04 - Constraint Satisfaction Problems I.mp4                                                                                      
-Lecture 05 - Constraint Satisfaction Problems II.mp4                                                                                     
-Lecture 06 - Search with Other Agents I.mp4                                                                                              
-Lecture 07 - Search with Other Agents II.mp4                                                                                             
-Lecture 08 - Markov Decision Processes I.mp4                                                                                             
-Lecture 09 - Markov Decision Processes II.mp4                                                                                            
-Lecture 10 - Reinforcement Learning I.mp4                                                                                                
-Lecture 11 - Reinforcement Learning II.mp4                                                                                               
-Lecture 12 - Probability.mp4                                                                                                             
-Lecture 13 - Bayesian Networks_ Representation.mp4                                                                                       
-Lecture 14 - Bayesian Networks_ Inference.mp4                                                                                            
-Lecture 15 - Bayesian Networks_ Independence.mp4                                                                                         
-Lecture 16 - Bayesian Networks_ Sampling.mp4                                                                                             
-Lecture 17 - Decision Networks and VPI.mp4                                                                                               
-Lecture 18 - Hidden Markov Models.mp4                                                                                                    
-Lecture 19 - Particle Filtering.mp4                                                                                                      
-Lecture 20 - Machine Learning_ Naive Bayes.mp4                                                                                           
-Lecture 21 - Machine Learning_ Perceptrons and Logistic Regression.mp4                                                                   
-Lecture 22 - Machine Learning_ Optimization.mp4                                                                                          
-Lecture 23 - Machine Learning_ Neural Networks.mp4                                                                                       
-Lecture 24 - Advanced Applications_ Games and Robotics.mp4                                                                               
-Lecture 25 - Conclusion.mp4
+      [ ] Lecture 01 - Introduction                                                                                                            
+      [ ] Lecture 02 - Uninformed Search                                                                                                       
+      [ ] Lecture 03 - UCS, A*, and Heuristics                                                                                                 
+      [ ] Lecture 04 - Constraint Satisfaction Problems I                                                                                      
+      [ ] Lecture 05 - Constraint Satisfaction Problems II                                                                                     
+      [ ] Lecture 06 - Search with Other Agents I                                                                                              
+      [ ] Lecture 07 - Search with Other Agents II                                                                                             
+      [ ] Lecture 08 - Markov Decision Processes I                                                                                             
+      [ ] Lecture 09 - Markov Decision Processes II                                                                                            
+      [ ] Lecture 10 - Reinforcement Learning I                                                                                                
+      [ ] Lecture 11 - Reinforcement Learning II                                                                                               
+      [ ] Lecture 12 - Probability                                                                                                             
+      [ ] Lecture 13 - Bayesian Networks: Representation                                                                                       
+      [ ] Lecture 14 - Bayesian Networks: Inference                                                                                            
+      [ ] Lecture 15 - Bayesian Networks: Independence                                                                                         
+      [ ] Lecture 16 - Bayesian Networks: Sampling                                                                                             
+      [ ] Lecture 17 - Decision Networks and VPI                                                                                               
+      [ ] Lecture 18 - Hidden Markov Models                                                                                                    
+      [ ] Lecture 19 - Particle Filtering                                                                                                      
+      [ ] Lecture 20 - Machine Learning: Naive Bayes                                                                                           
+      [ ] Lecture 21 - Machine Learning: Perceptrons and Logistic Regression                                                                   
+      [ ] Lecture 22 - Machine Learning: Optimization                                                                                          
+      [ ] Lecture 23 - Machine Learning: Neural Networks                                                                                      
+      [ ] Lecture 24 - Advanced Applications: Games and Robotics                                                                              
+      [ ] Lecture 25 - Conclusion
