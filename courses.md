@@ -112,7 +112,7 @@
       [ ] Lecture 26 - Warehouse-Scale Computing
       [ ] Lecture 27 - Summary, What's Next?
 
-#### [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/)
+#### [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/)([Github](https://github.com/orgs/data-8/repositories))
 
       [ ] Lecture 01 - Introduction                                                                                                           
       [ ] Lecture 02 - Cause and Effect                                                                                                       
@@ -156,7 +156,7 @@
       [ ] Lecture 40 - Algorithmic Bias                                                                                                       
       [ ] Lecture 41 - Conclusion 
 
-#### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)
+#### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)([Github](https://github.com/orgs/DS-100/repositories))
 
       [ ] Lecture 01 - Course Overview
       [ ] Lecture 02 - Sampling and Probability 
