@@ -21,6 +21,9 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 - [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)
 - [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
 
+##### Data Engineering
+- [UCB - Data 101: Data Engineering](https://data101.org/)
+
 ##### Artificial Intelligence
 - [UCB - CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 
