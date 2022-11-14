@@ -20,7 +20,10 @@ This is a repo for my personal bootcamp, heavily inspired by [this](https://www.
 - [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
 
 ##### Artificial Intelligence
-- [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
+- [UCB - CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
+
+##### Machine Learning
+- [UCB - CS189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
 ##### Web Development
 - [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
