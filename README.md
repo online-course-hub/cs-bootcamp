@@ -1,6 +1,7 @@
 #### OVERVIEW
 
 This is a repo for my personal bootcamp, heavily inspired by [this](https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/). It's a mix of necessary knowledge to be a developer and subjects of interest. It will serve both as a journal and a guide for future people who will attempt to self-study computer science.
+
 PS: [Bilibili](https://www.bilibili.com/) is your friend for lectures.
 
 #### PREREQUISITES
