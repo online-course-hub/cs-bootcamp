@@ -12,19 +12,6 @@
     [ ] Chapter 10 - Theory of Graphs and Trees
     [ ] Chapter 11 - Analysis of Algorithm Efficiency
     [ ] Chapter 12 - Regular Expressions and Finite-State Automata
-
-#### [Digital Design and Computer Architecture - RISC-V Edition - Sarah Harris, David Harris](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
-
-    [ ] Chapter 01 - From Zero to One
-    [ ] Chapter 02 - Combinational Logic Design
-    [ ] Chapter 03 - Sequential Logic Design
-    [ ] Chapter 04 - Hardware Description Languages
-    [ ] Chapter 05 - Digital Building Blocks
-    [ ] Chapter 06 - Architecture
-    [ ] Chapter 07 - Microarchitecture
-    [ ] Chapter 08 - Memory Systems
-    [ ] Chapter 09 - I/O Systems
-    [ ] Chapter 10 - e9. I/O Systems
     
 #### [Computer Organization and Design - RISC-V Edition - David Patterson, John Hennessy](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
 
@@ -34,41 +21,3 @@
     [ ] Chapter 04 - The RISC-V Processor
     [ ] Chapter 05 - Large and Fast: Exploiting Memory Hierarchy
     [ ] Chapter 06 - Parallel Processors from Client to Cloud
-
-#### [Programming Language Pragmatics - Michael Scott](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9)
-
-    [ ] Chatper 01 - Introduction
-    [ ] Chatper 02 - Programming Language Syntax
-    [ ] Chatper 03 - Names, Scopes, and Bindings
-    [ ] Chatper 04 - Semantic Analysis
-    [ ] Chatper 05 - Target Machine Architecture
-    [ ] Chatper 06 - Control Flow
-    [ ] Chatper 07 - Type Systems
-    [ ] Chatper 08 - Composite Types
-    [ ] Chatper 09 - Subroutines and Control Abstraction
-    [ ] Chatper 10 - Data Abstraction and Object Orientation
-    [ ] Chatper 11 - Functional Languages
-    [ ] Chatper 12 - Logic Languages
-    [ ] Chatper 13 - Concurrency
-    [ ] Chatper 14 - Scripting Languages
-    [ ] Chatper 15 - Building a Runnable Program
-    [ ] Chatper 16 - Run-Time Program Management
-    [ ] Chatper 17 - Code Improvement
-
-#### [Introduction to Modern Cryptography - Jonathan Katz, Yehuda Lindell](https://www.routledge.com/Introduction-to-Modern-Cryptography/Katz-Lindell/p/book/9780815354369)
-
-    [ ] Chapter 01 - Introduction
-    [ ] Chapter 02 - Perfectly Secret Encryption.
-    [ ] Chapter 03 - Private-Key Encryption. 
-    [ ] Chapter 04 - Message Authentication Codes. 
-    [ ] Chapter 05 - CCA-Security and Authenticated Encryption. 
-    [ ] Chapter 06 - Hash Functions and Applications. 
-    [ ] Chapter 07 - Practical Constructions of Symmetric-Key Primitives. 
-    [ ] Chapter 08 - Theoretical Constructions of Symmetric-Key Primitives. 
-    [ ] Chapter 09 - Number Theory and Cryptographic Hardness Assumptions. 
-    [ ] Chapter 10 - Algorithms for Factoring and Computing Discrete Logarithms. 
-    [ ] Chapter 11 - Key Management and the Public-Key Revolution. 
-    [ ] Chapter 12 - Public-Key Encryption. 
-    [ ] Chapter 13 - Digital Signature Schemes. 
-    [ ] Chapter 14 - Post-Quantum Cryptography. 
-    [ ] Chapter 15 - Advanced Topics in Public-Key Encryption.
