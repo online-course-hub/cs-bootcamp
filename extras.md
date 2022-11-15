@@ -102,5 +102,4 @@
 
 - [UCB - Data 101: Data Engineering](https://data101.org/)
 - [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- [UCB - CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 - [UCB - CS189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
