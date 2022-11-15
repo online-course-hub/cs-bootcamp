@@ -99,32 +99,5 @@
       [ ] Lecture 24 - Advanced Applications: Games and Robotics                                                                              
       [ ] Lecture 25 - Conclusion
 
-
-
-#### [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-
-      [ ] Lecture 01 - Course Overview & Relational Model
-      [ ] Lecture 02 - Advanced SQL
-      [ ] Lecture 03 - Database Storage I
-      [ ] Lecture 04 - Database Storage II
-      [ ] Lecture 05 - Storage Models & Compression
-      [ ] Lecture 06 - Memory Management
-      [ ] Lecture 07 - Hash Tables
-      [ ] Lecture 08 - Trees Indexes
-      [ ] Lecture 09 - Index Concurrency Control
-      [ ] Lecture 10 - Sorting & Aggregations Algorithms
-      [ ] Lecture 11 - Joins Algorithms
-      [ ] Lecture 12 - Query Execution I
-      [ ] Lecture 13 - Query Execution II (No In-Class Lecture)
-      [ ] Lecture 14 - Query Planning & Optimization
-      [ ] Lecture 15 - Concurrency Control Theory
-      [ ] Lecture 16 - Two-Phase Locking Concurrency Control
-      [ ] Lecture 17 - Timestamp Ordering Concurrency Control
-      [ ] Lecture 18 - Multi-Version Concurrency Control
-      [ ] Lecture 19 - Database Logging
-      [ ] Lecture 20 - Database Recovery
-      [ ] Lecture 21 - Introduction to Distributed Databases
-      [ ] Lecture 23 - Distributed OLAP Database Systems
-      
 - [UCB - Data 101: Data Engineering](https://data101.org/)
 - [UCB - CS189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
