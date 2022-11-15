@@ -22,7 +22,7 @@
     [ ] Chapter 05 - Large and Fast: Exploiting Memory Hierarchy
     [ ] Chapter 06 - Parallel Processors from Client to Cloud
 
-#### [Database System Concepts](https://www.mheducation.com/highered/product/database-system-concepts-silberschatz-korth/M9780078022159.html)
+#### [Database System Concepts - Abraham Silberschatz, Henry Korth and S. Sudarshan](https://www.mheducation.com/highered/product/database-system-concepts-silberschatz-korth/M9780078022159.html)
 
     [ ] Chapter 01 - Introduction
     [ ] Chapter 02 - Introduction to the Relational Model
