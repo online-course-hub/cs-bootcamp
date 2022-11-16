@@ -1,45 +1,47 @@
+### COURSES
+
 #### [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)
 
-      [ ] Lecture 01 - Introduction                                                                                                           
-      [ ] Lecture 02 - Cause and Effect                                                                                                       
-      [ ] Lecture 03 - Tables                                                                                                                 
-      [ ] Lecture 04 - Data Types                                                                                                             
-      [ ] Lecture 05 - Building Tables                                                                                                        
-      [ ] Lecture 06 - Census                                                                                                                 
-      [ ] Lecture 07 - Charts                                                                                                                 
-      [ ] Lecture 08 - Histograms                                                                                                             
-      [ ] Lecture 09 - Functions                                                                                                              
-      [ ] Lecture 10 - Groups                                                                                                                 
-      [ ] Lecture 11 - Groups and Pivots                                                                                                      
-      [ ] Lecture 12 - Joins and Table Examples                                                                                               
-      [ ] Lecture 13 - Iteration                                                                                                              
-      [ ] Lecture 14 - Chance and Sampling                                                                                                    
-      [ ] Lecture 14 - Simulations                                                                                                            
-      [ ] Lecture 15 - Sampling                                                                                                               
-      [ ] Lecture 17 - Assessing Models                                                                                                       
-      [ ] Lecture 18 - Decisions and Uncertainty                                                                                              
-      [ ] Lecture 20 - Causality                                                                                                              
-      [ ] Lecture 21 - Examples                                                                                                               
-      [ ] Lecture 22 - Midterm Review                                                                                                         
-      [ ] Lecture 23 - Bootstrap                                                                                                              
-      [ ] Lecture 24 - Confidence Intervals                                                                                                   
-      [ ] Lecture 25 - Center and Spread                                                                                                      
-      [ ] Lecture 26 - The Normal Distribution                                                                                                
-      [ ] Lecture 27 - Sample Means                                                                                                           
-      [ ] Lecture 28 - Designing Experiments                                                                                                  
-      [ ] Lecture 29 - Correlation                                                                                                            
-      [ ] Lecture 29 - Decisions and Uncertainty                                                                                              
-      [ ] Lecture 30 - Linear Regression                                                                                                      
-      [ ] Lecture 31 - Least Squares                                                                                                          
-      [ ] Lecture 32 - Residuals                                                                                                      
+      [ ] Lecture 01 - Introduction 
+      [ ] Lecture 02 - Cause and Effect
+      [ ] Lecture 03 - Tables
+      [ ] Lecture 04 - Data Types
+      [ ] Lecture 05 - Building Tables
+      [ ] Lecture 06 - Census
+      [ ] Lecture 07 - Charts
+      [ ] Lecture 08 - Histograms
+      [ ] Lecture 09 - Functions
+      [ ] Lecture 10 - Groups
+      [ ] Lecture 11 - Groups and Pivots
+      [ ] Lecture 12 - Joins and Table Examples
+      [ ] Lecture 13 - Iteration
+      [ ] Lecture 14 - Chance and Sampling
+      [ ] Lecture 14 - Simulations
+      [ ] Lecture 15 - Sampling
+      [ ] Lecture 17 - Assessing Models
+      [ ] Lecture 18 - Decisions and Uncertainty
+      [ ] Lecture 20 - Causality
+      [ ] Lecture 21 - Examples
+      [ ] Lecture 22 - Midterm Review
+      [ ] Lecture 23 - Bootstrap
+      [ ] Lecture 24 - Confidence Intervals
+      [ ] Lecture 25 - Center and Spread
+      [ ] Lecture 26 - The Normal Distribution
+      [ ] Lecture 27 - Sample Means
+      [ ] Lecture 28 - Designing Experiments
+      [ ] Lecture 29 - Correlation
+      [ ] Lecture 29 - Decisions and Uncertainty
+      [ ] Lecture 30 - Linear Regression
+      [ ] Lecture 31 - Least Squares
+      [ ] Lecture 32 - Residuals
       [ ] Lecture 33 - Regression Inference
-      [ ] Lecture 34 - Privacy                                                                                                                
-      [ ] Lecture 35 - Classification                                                                                                         
-      [ ] Lecture 36 - Classifiers                                                                                                            
-      [ ] Lecture 37 - Classifiers II                                                                                                         
-      [ ] Lecture 38 - Updating Probabilities                                                                                                 
-      [ ] Lecture 39 - Case Studies                                                                                                           
-      [ ] Lecture 40 - Algorithmic Bias                                                                                                       
+      [ ] Lecture 34 - Privacy
+      [ ] Lecture 35 - Classification
+      [ ] Lecture 36 - Classifiers
+      [ ] Lecture 37 - Classifiers II
+      [ ] Lecture 38 - Updating Probabilities
+      [ ] Lecture 39 - Case Studies
+      [ ] Lecture 40 - Algorithmic Bias
       [ ] Lecture 41 - Conclusion 
 
 #### [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
@@ -73,31 +75,88 @@
 
 #### [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 
-      [ ] Lecture 01 - Introduction                                                                                                            
-      [ ] Lecture 02 - Uninformed Search                                                                                                       
-      [ ] Lecture 03 - UCS, A*, and Heuristics                                                                                                 
-      [ ] Lecture 04 - Constraint Satisfaction Problems I                                                                                      
-      [ ] Lecture 05 - Constraint Satisfaction Problems II                                                                                     
-      [ ] Lecture 06 - Search with Other Agents I                                                                                              
-      [ ] Lecture 07 - Search with Other Agents II                                                                                             
-      [ ] Lecture 08 - Markov Decision Processes I                                                                                             
-      [ ] Lecture 09 - Markov Decision Processes II                                                                                            
-      [ ] Lecture 10 - Reinforcement Learning I                                                                                                
-      [ ] Lecture 11 - Reinforcement Learning II                                                                                               
-      [ ] Lecture 12 - Probability                                                                                                             
-      [ ] Lecture 13 - Bayesian Networks: Representation                                                                                       
-      [ ] Lecture 14 - Bayesian Networks: Inference                                                                                            
-      [ ] Lecture 15 - Bayesian Networks: Independence                                                                                         
-      [ ] Lecture 16 - Bayesian Networks: Sampling                                                                                             
-      [ ] Lecture 17 - Decision Networks and VPI                                                                                               
-      [ ] Lecture 18 - Hidden Markov Models                                                                                                    
-      [ ] Lecture 19 - Particle Filtering                                                                                                      
-      [ ] Lecture 20 - Machine Learning: Naive Bayes                                                                                           
-      [ ] Lecture 21 - Machine Learning: Perceptrons and Logistic Regression                                                                   
-      [ ] Lecture 22 - Machine Learning: Optimization                                                                                          
-      [ ] Lecture 23 - Machine Learning: Neural Networks                                                                                      
-      [ ] Lecture 24 - Advanced Applications: Games and Robotics                                                                              
+      [ ] Lecture 01 - Introduction
+      [ ] Lecture 02 - Uninformed Search
+      [ ] Lecture 03 - UCS, A*, and Heuristics
+      [ ] Lecture 04 - Constraint Satisfaction Problems I
+      [ ] Lecture 05 - Constraint Satisfaction Problems II
+      [ ] Lecture 06 - Search with Other Agents I
+      [ ] Lecture 07 - Search with Other Agents II
+      [ ] Lecture 08 - Markov Decision Processes I
+      [ ] Lecture 09 - Markov Decision Processes II
+      [ ] Lecture 10 - Reinforcement Learning I
+      [ ] Lecture 11 - Reinforcement Learning II
+      [ ] Lecture 12 - Probability
+      [ ] Lecture 13 - Bayesian Networks: Representation
+      [ ] Lecture 14 - Bayesian Networks: Inference
+      [ ] Lecture 15 - Bayesian Networks: Independence
+      [ ] Lecture 16 - Bayesian Networks: Sampling
+      [ ] Lecture 17 - Decision Networks and VPI
+      [ ] Lecture 18 - Hidden Markov Models
+      [ ] Lecture 19 - Particle Filtering
+      [ ] Lecture 20 - Machine Learning: Naive Bayes
+      [ ] Lecture 21 - Machine Learning: Perceptrons and Logistic Regression
+      [ ] Lecture 22 - Machine Learning: Optimization
+      [ ] Lecture 23 - Machine Learning: Neural Networks
+      [ ] Lecture 24 - Advanced Applications: Games and Robotics
       [ ] Lecture 25 - Conclusion
+      
+#### [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)<br>
+
+      [ ] Lecture 01 - Intro, Number Representation
+      [ ] Lecture 02 - C Intro - Basics
+      [ ] Lecture 03 - C Intro - Pointers, Arrays, Strings
+      [ ] Lecture 04 - C Memory (Mis)Management
+      [ ] Lecture 05 - Floating Point, 
+      [ ] Lecture 06 - Assembly, RISC-V Intro
+      [ ] Lecture 07 - RISC-V, RISC-V Functions
+      [ ] Lecture 08 - RISC-V Instruction Formats
+      [ ] Lecture 09 - Compiler, Assembler, Linker, Loader (CALL)
+      [ ] Lecture 10 - Functional Units, Boolean Algebra
+      [ ] Lecture 11 - Introduction to Synchronous Digital Systems (SDS)
+      [ ] Lecture 12 - RISC-V Datapath, Single-Cycle Control Intro
+      [ ] Lecture 13 - RISC-V Single-Cycle Control
+      [ ] Lecture 14 - RISC-V 5-Stage Pipeline/Hazards
+      [ ] Lecture 15 - Memory Hierarchy, Fully Associative Caches
+      [ ] Lecture 16 - Direct-Mapped & Set-Associative Caches, Cache Performance
+      [ ] Lecture 17 - Multi-Level Caches, Cache Questions
+      [ ] Lecture 18 - Flynn's Taxonomy, Data-Level Parallelism
+      [ ] Lecture 19 - Amdahl's Law, Thread-Level Parallelism, OpenMP Introduction
+      [ ] Lecture 20 - Cache Coherence, OpenMP Sharing Issues, Performance
+      [ ] Lecture 21 - Operating Systems
+      [ ] Lecture 22 - Virtual Memory
+      [ ] Lecture 23 - Virtual Memory II
+      [ ] Lecture 24 - Virtual Memory III and I/O
+      [ ] Lecture 25 - Dependability, Parity, ECC, RAID
+      [ ] Lecture 26 - Warehouse-Scale Computing
+      [ ] Lecture 27 - Summary, What's Next?
+ 
+#### [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+
+      [ ] Lecture 01 - Course Overview & Relational Model
+      [ ] Lecture 02 - Advanced SQL
+      [ ] Lecture 03 - Database Storage I
+      [ ] Lecture 04 - Database Storage II
+      [ ] Lecture 05 - Storage Models & Compression
+      [ ] Lecture 06 - Memory Management
+      [ ] Lecture 07 - Hash Tables
+      [ ] Lecture 08 - Trees Indexes
+      [ ] Lecture 09 - Index Concurrency Control
+      [ ] Lecture 10 - Sorting & Aggregations Algorithms
+      [ ] Lecture 11 - Joins Algorithms
+      [ ] Lecture 12 - Query Execution I
+      [ ] Lecture 13 - Query Execution II (No In-Class Lecture)
+      [ ] Lecture 14 - Query Planning & Optimization
+      [ ] Lecture 15 - Concurrency Control Theory
+      [ ] Lecture 16 - Two-Phase Locking Concurrency Control
+      [ ] Lecture 17 - Timestamp Ordering Concurrency Control
+      [ ] Lecture 18 - Multi-Version Concurrency Control
+      [ ] Lecture 19 - Database Logging
+      [ ] Lecture 20 - Database Recovery
+      [ ] Lecture 21 - Introduction to Distributed Databases
+      [ ] Lecture 23 - Distributed OLAP Database Systems
+
+### TEXTBOOKS
 
 #### [Digital Design and Computer Architecture - RISC-V Edition - Sarah Harris, David Harris](https://www.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3)
 
