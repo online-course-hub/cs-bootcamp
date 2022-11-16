@@ -1,6 +1,6 @@
 #### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
       
-      [ ] Lecture 01 - Introduction
+      - [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
       [ ] Lecture 03 - Control 
       [ ] Lecture 04 - Higher Order Functions 
