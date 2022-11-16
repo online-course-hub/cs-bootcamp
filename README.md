@@ -20,4 +20,4 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 
 #### Textbooks
-- [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
+- [ ] [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
