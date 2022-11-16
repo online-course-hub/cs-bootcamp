@@ -1,23 +1,23 @@
-#### OVERVIEW
+### OVERVIEW
 
 This is a repo for my personal bootcamp, heavily inspired by [this](https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/). It's a mix of necessary knowledge to be a developer and subjects of interest. It will serve both as a journal and a guide for future people who will attempt to self-study computer science.
 
 PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 
-#### PREREQUISITES
+### PREREQUISITES
 
 - Fluency in English
 - High School Mathematics
 - DISCIPLINE
 
-#### CONTENTS
+### CONTENTS
 
-##### Courses
+#### Courses
 - [ ] [UCB - CS61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
 - [ ] [UCB - CS61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)
 - [ ] [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)
 - [ ] [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
 - [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 
-##### Textbooks
+#### Textbooks
 - [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
