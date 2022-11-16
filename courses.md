@@ -81,3 +81,20 @@
       [ ] Lecture 38 - Compression
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
+
+#### [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
+
+      [ ] Part 01 - Fundamentals of Web apps
+      [ ] Part 02 - Introduction to React
+      [ ] Part 03 - Communicating with server
+      [ ] Part 04 - Programming a server with NodeJS and Express
+      [ ] Part 05 - Testing Express servers, user administration
+      [ ] Part 06 - Testing React apps
+      [ ] Part 07 - State management with Redux
+      [ ] Part 08 - React router, custom hooks, styling app with CSS and webpack
+      [ ] Part 09 - GraphQL
+      [ ] Part 10 - TypeScript
+      [ ] Part 11 - React Native
+      [ ] Part 12 - CI/CD
+      [ ] Part 13 - Containers
+      [ ] Part 14 - Using relational databases
