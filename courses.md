@@ -1,4 +1,4 @@
-#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+#### [UCB - CS 61 A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
       
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Functions
@@ -39,7 +39,7 @@
       [ ] Lecture 37 - OOP Review + Design   
       [ ] Lecture 38 - Conclusion
       
-#### [UCB - CS 61 B: Data Structures - MB7ZPY](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)<br>
+#### [UCB - CS 61 B: Data Structures - MB7ZPY](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -81,6 +81,36 @@
       [ ] Lecture 38 - Compression
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
+
+#### [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)
+
+      [ ] Lecture 01 - Intro, Number Representation
+      [ ] Lecture 02 - C Intro - Basics
+      [ ] Lecture 03 - C Intro - Pointers, Arrays, Strings
+      [ ] Lecture 04 - C Memory (Mis)Management
+      [ ] Lecture 05 - Floating Point, 
+      [ ] Lecture 06 - Assembly, RISC-V Intro
+      [ ] Lecture 07 - RISC-V, RISC-V Functions
+      [ ] Lecture 08 - RISC-V Instruction Formats
+      [ ] Lecture 09 - Compiler, Assembler, Linker, Loader (CALL)
+      [ ] Lecture 10 - Functional Units, Boolean Algebra
+      [ ] Lecture 11 - Introduction to Synchronous Digital Systems (SDS)
+      [ ] Lecture 12 - RISC-V Datapath, Single-Cycle Control Intro
+      [ ] Lecture 13 - RISC-V Single-Cycle Control
+      [ ] Lecture 14 - RISC-V 5-Stage Pipeline/Hazards
+      [ ] Lecture 15 - Memory Hierarchy, Fully Associative Caches
+      [ ] Lecture 16 - Direct-Mapped & Set-Associative Caches, Cache Performance
+      [ ] Lecture 17 - Multi-Level Caches, Cache Questions
+      [ ] Lecture 18 - Flynn's Taxonomy, Data-Level Parallelism
+      [ ] Lecture 19 - Amdahl's Law, Thread-Level Parallelism, OpenMP Introduction
+      [ ] Lecture 20 - Cache Coherence, OpenMP Sharing Issues, Performance
+      [ ] Lecture 21 - Operating Systems
+      [ ] Lecture 22 - Virtual Memory
+      [ ] Lecture 23 - Virtual Memory II
+      [ ] Lecture 24 - Virtual Memory III and I/O
+      [ ] Lecture 25 - Dependability, Parity, ECC, RAID
+      [ ] Lecture 26 - Warehouse-Scale Computing
+      [ ] Lecture 27 - Summary, What's Next?
 
 #### [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 
