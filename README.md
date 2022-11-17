@@ -13,6 +13,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 ### TO WATCH
 
 - [ ] [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
+- [ ] [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 ### CONTENTS
 
