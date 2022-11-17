@@ -10,6 +10,10 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - High School Mathematics
 - DISCIPLINE
 
+### TO WATCH
+
+- [ ] [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
+
 ### CONTENTS
 
 #### Courses
