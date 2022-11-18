@@ -21,6 +21,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 ####
 
 - [ ] [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)
+- [ ] [Cornell - OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
 #### Textbooks
 - [ ] [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
