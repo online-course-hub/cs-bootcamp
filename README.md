@@ -18,10 +18,5 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)
 - [ ] [University of Helsinki - Full Stack Open 2022](https://fullstackopen.com/en/)
 
-####
-
-- [ ] [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)
-- [ ] [Cornell University - OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
-
 #### Textbooks
 - [ ] [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
