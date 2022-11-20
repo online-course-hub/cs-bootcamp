@@ -56,3 +56,21 @@
     [ ] Chapter 30 - XML
     [ ] Chapter 31 - Information Retrieval
     [ ] Chapter 32 - PostgreSQL
+
+#### [Introduction to Modern Cryptography - Jonathan Katz, Yehuda Lindell](https://www.routledge.com/Introduction-to-Modern-Cryptography/Katz-Lindell/p/book/9780815354369)
+
+    [ ] Chapter 01 - Introduction
+    [ ] Chapter 02 - Perfectly Secret Encryption
+    [ ] Chapter 03 - Private-Key Encryption 
+    [ ] Chapter 04 - Message Authentication Codes 
+    [ ] Chapter 05 - CCA-Security and Authenticated Encryption 
+    [ ] Chapter 06 - Hash Functions and Applications 
+    [ ] Chapter 07 - Practical Constructions of Symmetric-Key Primitive. 
+    [ ] Chapter 08 - Theoretical Constructions of Symmetric-Key Primitives 
+    [ ] Chapter 09 - Number Theory and Cryptographic Hardness Assumptions 
+    [ ] Chapter 10 - Algorithms for Factoring and Computing Discrete Logarithms 
+    [ ] Chapter 11 - Key Management and the Public-Key Revolution 
+    [ ] Chapter 12 - Public-Key Encryption 
+    [ ] Chapter 13 - Digital Signature Schemes 
+    [ ] Chapter 14 - Post-Quantum Cryptography 
+    [ ] Chapter 15 - Advanced Topics in Public-Key Encryption
