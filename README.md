@@ -7,7 +7,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 ### PREREQUISITES
 
 - Fluency in English
-- High School Mathematics (For the foundation part, you will need more math the more you advance)
+- High School Mathematics
 - DISCIPLINE
 
 ### CONTENTS
