@@ -10,12 +10,6 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - High School Mathematics
 - DISCIPLINE
 
-#### Watch these when when idling
-
-- [ ] [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
-- [ ] [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [ ] [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-
 ### CONTENTS
 
 #### Courses
@@ -35,5 +29,11 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)
 - [ ] [Cornell University - OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
-#### Textbooks
+### TEXTBOOKS
 - [ ] [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
+
+### IDLING
+
+- [ ] [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
+- [ ] [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [ ] [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
