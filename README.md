@@ -19,7 +19,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/sp22/) [(Github)](https://github.com/orgs/61c-teach/repositories)
 
 ##### Extras
-- [ ] [University of Helsinki - Full Stack Open 2022](https://fullstackopen.com/en/)
+- [ ] [University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)
 - [ ] [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)
 - [ ] [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
 - [ ] [UCB - Data 101: Data Engineering](https://data101.org/)
