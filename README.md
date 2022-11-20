@@ -25,14 +25,11 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
 - [ ] [UCB - CS 189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - [ ] [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- [ ] [University of Helsinki - Haskell MOOC](https://haskell.mooc.fi/)
-- [ ] [Cornell University - OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
 ### TEXTBOOKS
 - [ ] [Discrete Mathematics with Applications - Susanna S. Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
 - [ ] [Computer Organization and Design - RISC-V Edition - David Patterson, John Hennessy](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
 - [ ] [Database System Concepts - Abraham Silberschatz, Henry Korth and S. Sudarshan](https://www.mheducation.com/highered/product/database-system-concepts-silberschatz-korth/M9780078022159.html)
-- [ ] [Introduction to Modern Cryptography - Jonathan Katz, Yehuda Lindell](https://www.routledge.com/Introduction-to-Modern-Cryptography/Katz-Lindell/p/book/9780815354369)
 
 ### IDLING
 
