@@ -22,7 +22,6 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 
 #### Databases
 - [ ] [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- [ ] [CMU - 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
 
 #### Data Science / Data Engineering
 - [ ] [UCB - Data 8: Foundations of Data Science](http://data8.org/fa21/) [(Github)](https://github.com/orgs/data-8/repositories)
