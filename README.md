@@ -38,8 +38,6 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [Computer Organization and Design - RISC-V Edition - David Patterson, John Hennessy](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
 - [ ] [Discrete Mathematics with Applications - Susanna S. Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
 - [ ] [Database System Concepts - Abraham Silberschatz, Henry Korth and S. Sudarshan](https://www.mheducation.com/highered/product/database-system-concepts-silberschatz-korth/M9780078022159.html)
-- [ ] [Computational and Inferential Thinking: The Foundations of Data Science - Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html)
-- [ ] [Learning Data Science - Sam Lau, Joey Gonzalez, and Deb Nolan](https://www.textbook.ds100.org/intro.html)
 
 ### IDLING
 
