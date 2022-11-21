@@ -34,8 +34,8 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [UCB - CS 189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
 ### TEXTBOOKS
-- [ ] [Discrete Mathematics with Applications - Susanna S. Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
 - [ ] [Computer Organization and Design - RISC-V Edition - David Patterson, John Hennessy](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
+- [ ] [Discrete Mathematics with Applications - Susanna S. Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_image_bk)
 - [ ] [Database System Concepts - Abraham Silberschatz, Henry Korth and S. Sudarshan](https://www.mheducation.com/highered/product/database-system-concepts-silberschatz-korth/M9780078022159.html)
 
 ### IDLING
