@@ -49,3 +49,5 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 - [ ] [3b1b - Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 - [ ] [3b1b - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [3b1b - But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [ ] [Imperial College London - Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+- [ ] [Imperial College London - Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
