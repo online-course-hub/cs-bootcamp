@@ -24,6 +24,10 @@ CS 61A primarily uses the Python 3 programming language. Python is a popular lan
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work. In fact, you will be asked to learn at least two other languages, Scheme and SQL, during the course.
 
 - [ ] [UCB - CS61 B: Data Structures](https://sp21.datastructur.es/) [(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)
+
+> The CS 61 series is an introduction to Computer Science, with particular emphasis on software and machines from a programmer’s point of view. CS 61A covered high-level approaches to problem-solving, providing you with a variety of ways to organize solutions to programming problems as compositions of functions, collections of objects, or sets of rules. In CS 61B, we move to a somewhat more detailed (and to some extent, more basic) level of programming.
+In CS 61A, the correctness of a program was our primary goal. In CS 61B, we’re also concerned with engineering. An engineer, it is said, is someone who can do for a dime what any fool can do for a dollar. Much of CS 61B will be concerned with the tradeoffs in time and memory for a variety of methods for structuring data. We’ll also be concerned with the engineering knowledge and skills needed to build and maintain moderately large programs.
+
 - [ ] [UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/fa22/) [(Github)](https://github.com/orgs/61c-teach/repositories)
 
 #### Web Development
