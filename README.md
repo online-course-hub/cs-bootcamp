@@ -25,6 +25,8 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 
 #### Data Science
 - [x] [UCB - Data 8: Foundations of Data Science](http://data8.org/fa22/) [(Github)](https://github.com/orgs/data-8/repositories)
+    Foundations of Data Science combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It also delves into social issues surrounding data analysis such as privacy and study design.
+    
 - [ ] [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
 
 #### Data Engineering
