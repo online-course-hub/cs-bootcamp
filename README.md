@@ -31,11 +31,11 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 |---|---|---|---|
 ||[University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)|||
 
-- [ ] 
-
 #### Databases
 
-- [ ] [CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+|Concept|Resource|Github|Status|
+|---|---|---|---|
+||[CMU - 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)|||
 
 #### Data Science
 
