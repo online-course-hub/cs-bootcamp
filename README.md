@@ -36,7 +36,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 
 |Resource|Github|Status|
 |---|---|---|
-|[UCB - Data 8: Foundations of Data Science](http://data8.org/fa22/)|[Yes](https://github.com/orgs/data-8/repositories) ||
+|[UCB - Data 8: Foundations of Data Science](http://data8.org/fa22/)|[Yes](https://github.com/orgs/data-8/repositories)|✓|
 |[UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)|[Yes](https://github.com/orgs/DS-100/repositories)||
 
 #### Data Engineering
