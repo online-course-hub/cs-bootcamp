@@ -20,13 +20,8 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 ||[UCB - CS61 B: Data Structures](https://sp21.datastructur.es/)|[Yes](https://github.com/orgs/Berkeley-CS61B/repositories)||
 ||[UCB - CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/fa22/)|[Yes](https://github.com/orgs/61c-teach/repositories)||
 
-|Concept|Resource|Github|Status|
-|---|---|---|---|
-|||||
-|||||
-
-
 #### Web Development
+
 |Concept|Resource|Github|Status|
 |---|---|---|---|
 ||[University of Helsinki - Full Stack Open](https://fullstackopen.com/en/)|||
@@ -39,12 +34,20 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 
 #### Data Science
 
-- [x] [UCB - Data 8: Foundations of Data Science](http://data8.org/fa22/) [(Github)](https://github.com/orgs/data-8/repositories) 
-- [ ] [UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/) [(Github)](https://github.com/orgs/DS-100/repositories)
+|Concept|Resource|Github|Status|
+|---|---|---|---|
+||[UCB - Data 8: Foundations of Data Science](http://data8.org/fa22/)|[Yes](https://github.com/orgs/data-8/repositories) ||
+||[UCB - Data 100: Principles and Techniques of Data Science](https://ds100.org/sp22/)|[Yes](https://github.com/orgs/DS-100/repositories)||
 
 #### Data Engineering
-- [ ] [UCB - Data 101: Data Engineering](https://data101.org/)
+
+|Concept|Resource|Github|Status|
+|---|---|---|---|
+||[UCB - Data 101: Data Engineering](https://data101.org/)|||
 
 #### AI / ML
-- [ ] [UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/)
-- [ ] [UCB - CS 189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+
+|Concept|Resource|Github|Status|
+|---|---|---|---|
+||[UCB - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/)|||
+||[UCB - CS 189: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
