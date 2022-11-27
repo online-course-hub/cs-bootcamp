@@ -15,7 +15,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend for lectures.
 #### Foundations
 
 |Concept|Resource|Github|Status|
-|---|---|---|
+|---|---|---|---|
 ||[UCB - CS61 A: Structure and Interpretation of Computer Programs](https://cs61a.org/)||✓|
 ||[UCB - CS61 B: Data Structures](https://sp21.datastructur.es/)|[(Github)](https://github.com/orgs/Berkeley-CS61B/repositories)||
 |||||
