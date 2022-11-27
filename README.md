@@ -11,6 +11,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 - DISCIPLINE
 
 ### CONTENTS
+<table align="center"></table>
 
 |Courses|Github|Status|Notes|
 |---|---|---|---|
