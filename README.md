@@ -13,7 +13,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 ### CONTENTS
 
 |University|Courses|Github|Status|Notes|
-|:-:|-|:-:|:-:|-|
+|:-|-|:-:|:-:|-|
 |University of California, Berkeley|[Structure and Interpretation of Computer Programs](https://cs61a.org/)||||
 |University of California, Berkeley|[Data Structures](https://sp21.datastructur.es/)|[Link](https://github.com/orgs/Berkeley-CS61B/repositories)|||
 |University of California, Berkeley|[Great Ideas in Computer Architecture](https://cs61c.org/fa22/)|[Link](https://github.com/orgs/61c-teach/repositories)|||(https://people.eecs.berkeley.edu/~jrs/189/)||||
