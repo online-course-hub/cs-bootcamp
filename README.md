@@ -14,8 +14,8 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 
 |Interest|University|Courses|Github|Status|Notes|
 |:-|:-:|-|:-:|:-:|-|
-|★★★★★|University of California, Berkeley|[CS61 A: Structure and Interpretation of Computer Programs](https://cs61a.org/)||||
-|★★★★★|University of California, Berkeley|[CS61 B: Data Structures](https://sp21.datastructur.es/)|[Link](https://github.com/orgs/Berkeley-CS61B/repositories)|||
-|★|University of California, Berkeley|[CS61 C: Great Ideas in Computer Architecture](https://cs61c.org/fa22/)|[Link](https://github.com/orgs/61c-teach/repositories)|||(https://people.eecs.berkeley.edu/~jrs/189/)||||
+|★★★★★|University of California, Berkeley|[Structure and Interpretation of Computer Programs](https://cs61a.org/)||||
+|★★★★★|University of California, Berkeley|[Data Structures](https://sp21.datastructur.es/)|[Link](https://github.com/orgs/Berkeley-CS61B/repositories)|||
+|★|University of California, Berkeley|[Great Ideas in Computer Architecture](https://cs61c.org/fa22/)|[Link](https://github.com/orgs/61c-teach/repositories)|||(https://people.eecs.berkeley.edu/~jrs/189/)||||
 |★★★★|University of Helsinki|[Full Stack Open](https://fullstackopen.com/en/)||||
-|★★★|Carnegie Mellon University|[15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)||||
+|★★★|Carnegie Mellon University|[Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)||||
