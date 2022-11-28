@@ -1,1 +1,1 @@
-This course is BRUTAL. If it's too hard, finish [this](https://programming-22.mooc.fi/) first.
+- This course is BRUTAL. If it's too hard, finish [this](https://programming-22.mooc.fi/) first.
