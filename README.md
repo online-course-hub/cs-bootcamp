@@ -16,7 +16,7 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 |-|-|:-:|:-:|:-:|
 |University of California, Berkeley|[Structure and Interpretation of Computer Programs](https://cs61a.org/)|||[Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61a.md)|
 |University of California, Berkeley|[Data Structures](https://sp21.datastructur.es/)|[Link](https://github.com/orgs/Berkeley-CS61B/repositories)||[Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61b.md)|
-|University of California, Berkeley|[Great Ideas in Computer Architecture](https://cs61c.org/fa22/)|[Link](https://github.com/orgs/61c-teach/repositories)||[Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61c.md)|
+|University of California, Berkeley|[Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/sp22/)|[Link](https://github.com/orgs/61c-teach/repositories)||[Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61c.md)|
 |University of Helsinki|[Full Stack Open](https://fullstackopen.com/en/)||||
 |University of California, Berkeley|[Data Engineering](https://data101.org/)||||
 |Carnegie Mellon University|[Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)||||
