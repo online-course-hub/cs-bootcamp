@@ -12,9 +12,9 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 
 ### CONTENTS
 
-- University of California, Berkeley [Structure and Interpretation of Computer Programs](https://cs61a.org/) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61a.md)
-- University of California, Berkeley|[Data Structures](https://sp21.datastructur.es/) [Github](https://github.com/orgs/Berkeley-CS61B/repositories) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61b.md)
+- UCB [Structure and Interpretation of Computer Programs](https://cs61a.org/) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61a.md)
+- UCB [Data Structures](https://sp21.datastructur.es/) [Github](https://github.com/orgs/Berkeley-CS61B/repositories) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61b.md)
 - University of Helsinki [Full Stack Open](https://fullstackopen.com/en/)
-- University of California, Berkeley [Data Engineering](https://data101.org/)
-- Carnegie Mellon University [Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- Carnegie Mellon University [Introduction to Computer Systems]([http://csapp.cs.cmu.edu/](https://www.cs.cmu.edu/~213/)) [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+- UCB [Data Engineering](https://data101.org/)
+- CMU [Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+- CMU [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
