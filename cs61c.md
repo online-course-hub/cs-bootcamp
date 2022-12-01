@@ -1,2 +1,0 @@
-- Read [this](https://www.amazon.com/gp/product/B0B123P5GV/ref=dbs_a_def_rwt_bibl_vppi_i0) before starting the course.
-- Read [this](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642/ref=sr_1_2?qid=1669753207&refinements=p_27%3ASarah+L.+Harris&s=books&sr=1-2&text=Sarah+L.+Harris) as supplemental reading, it's better than the [one](https://www.amazon.com/gp/product/B08TRLDR2Q/ref=dbs_a_def_rwt_bibl_vppi_i1) they suggest imo.
