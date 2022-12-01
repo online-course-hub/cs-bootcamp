@@ -2,8 +2,6 @@
 
 This is a repo for my personal bootcamp, heavily inspired by [this](https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/). It will serve both as a journal and a guide for future people who will attempt to self-study computer science. But let's be real, the chance of doing actual computer science work is pretty low, so I will focus on what's in demand: high-level software development. By the end of it, you will be good enough to work as a junior developer.
 
-PS: [bilibili.com](https://www.bilibili.com/) is your friend.
-
 ### PREREQUISITES
 
 - Fluency in English
