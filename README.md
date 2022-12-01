@@ -12,9 +12,9 @@ PS: [bilibili.com](https://www.bilibili.com/) is your friend.
 
 ### CONTENTS
 
-- UCB [Structure and Interpretation of Computer Programs](https://cs61a.org/) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61a.md)
-- UCB [Data Structures](https://sp21.datastructur.es/) [Github](https://github.com/orgs/Berkeley-CS61B/repositories) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61b.md)
-- University of Helsinki [Full Stack Open](https://fullstackopen.com/en/)
-- UCB [Data Engineering](https://data101.org/)
-- CMU [Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
-- CMU [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+- [UCB CS 61A- Structure and Interpretation of Computer Programs](https://cs61a.org/) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61a.md)
+- [UCB CS 61B- Data Structures](https://sp21.datastructur.es/) [Github](https://github.com/orgs/Berkeley-CS61B/repositories) [Link](https://github.com/woadray/cs-bootcamp/blob/main/cs61b.md)
+- [CMU 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+- [CMU 15-445 - Database Systems](https://15445.courses.cs.cmu.edu/fall2022/)
+- [University of Helsinki Full Stack Open](https://fullstackopen.com/en/)
+- [UCB Data 101 - Data Engineering](https://data101.org/)
